@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO LEVEL************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+
+<Sprite Id= "Background_cave" x = "0" y ="0"  z = "0" w = "12" h = "6" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "0">
+		<Image Id = "CaveBackground"/>
+	</Sprite>
+	<Sprite Id= "ForeGround_cave" x = "0" y ="0"  z = "0" w = "40" h = "6" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "15">
+		<Image Id = "CaveForeground"/>
+	</Sprite>
+
+	<!-- Player controlled character: A blob defined with parameters, and an image or animation -->
+	<Player MaxControlForce = "0.12" MaxSpeed = "15.0" DamageForce = "0.45" ThrowingMaxForce = "0.1">
+		<Sprite Id= "BlobFace" x = "25" y ="32"  z = "0" w = "4" h = "4" Rotation = "0" Transp = "100" FlipX = "0" FlipY = "0" Layer = "11">
+			<Animation Id = "BlobFace"/>
+		</Sprite>
+ 		<!-- A blob entity is higly parametric: Options include InnerSkin or not, if not chosen (DoubleSkin = 0) means InnerSkinRadius parameter has no effect  -->
+		<Blob  x ="25"  y = "32" Layer= "2" Radius= "2.7" InnerSkinRadius = "2" DoubleSkin = "0" 
+					Bodies= "80" InJointsDamping= "0.05" InJointsFrequency= "2.8" SkinJointsDamping = "0.3" SkinJointsFrequency = "60" 
+					MassesRadius= "0.3" MassesFriction= "0.1" MassesRestitution= "0" MassesDensity= "0.01" 
+				    InnerMassRadius = "0.3" InnerMassDensity = "0.4">
+		</Blob>
+	</Player> 
+
+	 <AI Type = "Fly" Id= "Fly1" x = "3" y ="6" z = "0" w = "1" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10" LinDamping = "0" AngDamping = "0" IsStatic = "0" MaxSpeed = "50.0" MaxSteerForce = "100">
+		<Image Id = "FlyImage1"/>
+		<CircleShape Radius = "0.5" Density = "1" Friction = "0.1" Restitution = "0.1">
+			0,0
+		</CircleShape>
+	</AI>
+
+<Collectable Id = "FirstDrop" x="18" y="29" z ="1" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+		<Animation Id = "HelpLessDrop"/>
+		<CircleShape Radius = "1">
+			0,0
+		</CircleShape>
+	</Collectable>
+
+	<Body Id = "Static7" x = "8.5" y ="35" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+			<Sprite Id = "Static7" x = "8.5" y ="35"  z = "0"   w = "17" h = "30"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+				<Image Id = "Ground"/>
+			</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-8.5,-15,8.5,-15,8.5,15,-8.5,15
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body897" x = "45" y ="45" Rotation = "90" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+			<Sprite Id= "Body897" x = "45" y ="45"  z = "0" w = "2" h = "2" Rotation = "90" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+				<Image Id = "MovingTriangle"/>
+			</Sprite>
+		<PolygonShape Order = "3" Density = "1" Friction = "0.6" Restitution = "0.1">
+			1,-1,0,2,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Joint Id= "DistanceJoint" Type = "Distance" Body1 = "Body1" Body2 = "Body2" AllowCollision ="0">
+		<Coordinates>
+			23,40,30,40
+		</Coordinates>
+	</Joint>
+
+	<Joint Id= "RevoluteJoint" Type = "Revolute" MaxAngle = "90" MinAngle = "-90" Body1 = "Body3" Body2 = "Body4" AllowCollision ="1">
+		<Coordinates>
+			33,40
+		</Coordinates>
+	</Joint>
+
+	<Joint Id= "PrismaticJoint" Type = "Prismatic" Body1 = "Body5" Body2 = "Body6" AllowCollision ="1">
+		<Coordinates>
+			10,30
+		</Coordinates>
+		<Axis>
+			1,1
+		</Axis>
+	</Joint> 
+
+	<Text Id= "SomeText" x = "200" y ="200"  w = "10" h = "60" Layer = "5">
+		<Font Id = "GenSmall" LineSpacing ="5" CharSpacing = "1" Align = "Left"/>
+	</Text>
+</Entities>

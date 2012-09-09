@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Level ToCollect="0" />
+<Parallax MaxZoom="0.2" MinZoom="0.07" StartZoom = "0.15">
+    <Layer Number="0" SpeedPercentX="80" SpeedPercentY="0" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+</Parallax>
+<Entities>
+</Entities>

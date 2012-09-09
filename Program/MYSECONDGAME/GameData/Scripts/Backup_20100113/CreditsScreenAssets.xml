@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO OVERLAY************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Raining Background -->
+	<Sprite Id= "Rain_Background" x = "4" y ="3"  z = "0" w = "8" h = "6" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Animation Id = "Rain"/>
+	</Sprite> 
+
+	<!-- Letters -->
+	<Sprite Id= "Letters1" x = "4" y ="3"  z = "1" w = "8" h = "6" Rotation = "0" Transp = "215" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "Credits_Letters1"/>
+	</Sprite> 
+
+	<Sprite Id= "Letters2" x = "4" y ="3"  z = "1" w = "8" h = "6" Rotation = "0" Transp = "215" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "Credits_Letters2"/>
+	</Sprite> 
+</Entities>

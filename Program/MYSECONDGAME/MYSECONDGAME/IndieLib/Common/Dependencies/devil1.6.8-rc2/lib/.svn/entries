@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/devil1.6.8-rc2/lib"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="ILUT.lib"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="b78ab0d8c29c34c769bfd50275d2d324"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="ILU.exp"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="6ad91aad3809b8add66b27bec5e7a2e8"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="DevIL.lib"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="60ae49f93c00300fdf594e1d68a95207"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="ILUT.exp"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="473a27d9dc60f2f76c4e79a754cf0e0b"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="DevIL.exp"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="9266e4b7a5151b936b27a811c8a151d3"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="ILU.lib"
+   text-time="2009-07-16T13:50:10.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="9e27735741821324fe638ad19f068900"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+</wc-entries>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+	<!-- frames declaration -->
+	<frames>	
+		<!-- Idle Animation -->
+		<frame name ="Idle01" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 1.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle02" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 2.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle03" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 3.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle04" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 4.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle05" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 5.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle06" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 6.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle07" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 7.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle08" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 8.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle09" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 9.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle10" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 10.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle11" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 11.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle12" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 12.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle13" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 13.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle14" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 14.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle15" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 15.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle16" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 16.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle17" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 17.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle18" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 18.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle19" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 19.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle20" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 20.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle21" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 21.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle22" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 22.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle23" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 23.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle24" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 24.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle25" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 25.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle26" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 26.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle27" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 27.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle28" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 28.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle29" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 29.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle30" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 30.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle31" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 31.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle32" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 32.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle33" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 33.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle34" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 34.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle35" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 35.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle36" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 36.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle37" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 37.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle38" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 38.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle39" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 39.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle40" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 40.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle41" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 41.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle42" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 42.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle43" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 43.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle44" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 44.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle45" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 45.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle46" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 46.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle47" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 47.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle48" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 48.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle49" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 49.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle50" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 50.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle51" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 51.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle52" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 52.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle53" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 53.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle54" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 54.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle55" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 55.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle56" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 56.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle57" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 57.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle58" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 58.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle59" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 59.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle60" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 60.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle61" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 61.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle62" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 62.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle63" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 63.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle64" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 64.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle65" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 65.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle66" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 66.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle67" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 67.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle68" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 68.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle69" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 69.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle70" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 70.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle71" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 71.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle72" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 72.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle73" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 73.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle74" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 74.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle75" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 75.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle76" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 76.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle77" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 77.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle78" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 78.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle79" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 79.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle80" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 80.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle81" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 81.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle82" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 82.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle83" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 83.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle84" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 84.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle85" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 85.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle86" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 86.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle87" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 87.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle88" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 88.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<frame name ="Idle89" file= "..\GameData\Image\DropAnims\HelpLessDrop_Idle_Frame 89.png"collision="..\GameData\Image\DropAnims\dropAnims_collisions.xml" />
+		<!-- Collected Animation -->
+		<frame name ="Collected01" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 1.png"/>
+		<frame name ="Collected02" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 2.png"/>
+		<frame name ="Collected03" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 3.png"/>
+		<frame name ="Collected04" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 4.png"/>
+		<frame name ="Collected05" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 5.png"/>
+		<frame name ="Collected06" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 6.png"/>
+		<frame name ="Collected07" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 7.png"/>
+		<frame name ="Collected08" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 8.png"/>
+		<frame name ="Collected09" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 9.png"/>
+		<frame name ="Collected10" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 10.png"/>
+		<frame name ="Collected11" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 11.png"/>
+		<frame name ="Collected12" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 12.png"/>
+		<frame name ="Collected13" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 13.png"/>
+		<frame name ="Collected14" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 14.png"/>
+		<frame name ="Collected15" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 15.png"/>
+		<frame name ="Collected16" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 16.png"/>
+		<frame name ="Collected17" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 17.png"/>
+		<frame name ="Collected18" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 18.png"/>
+		<frame name ="Collected19" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 19.png"/>
+		<frame name ="Collected20" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 20.png"/>
+		<frame name ="Collected21" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 21.png"/>
+		<frame name ="Collected22" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 22.png"/>
+		<frame name ="Collected23" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 23.png"/>
+		<frame name ="Collected24" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 24.png"/>
+		<frame name ="Collected25" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 25.png"/>
+		<frame name ="Collected26" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 26.png"/>
+		<frame name ="Collected27" file= "..\GameData\Image\DropAnims\HelpLessDrop_Collected_Frame 27.png"/>
+	</frames>
+		
+	<!-- sequences declaration -->
+	<sequences>
+		<!-- Helpless drop -->
+		<sequence name="Idle1">
+			<frame name="Idle01" time="50" />
+			<frame name="Idle02" time="50" />
+			<frame name="Idle03" time="50" />
+			<frame name="Idle04" time="50" />
+			<frame name="Idle05" time="50" />
+			<frame name="Idle06" time="50" />
+			<frame name="Idle07" time="50" />
+			<frame name="Idle08" time="50" />
+			<frame name="Idle09" time="200" />
+			<frame name="Idle10" time="2000" />
+			<frame name="Idle11" time="100" />
+			<frame name="Idle12" time="50" />
+			<frame name="Idle13" time="50" />
+			<frame name="Idle14" time="50" />
+			<frame name="Idle15" time="50" />
+			<frame name="Idle16" time="50" />
+			<frame name="Idle17" time="50" />
+			<frame name="Idle18" time="50" />
+			<frame name="Idle19" time="200" />
+			<frame name="Idle20" time="3000" />
+			<frame name="Idle21" time="200" />
+			<frame name="Idle22" time="100" />
+			<frame name="Idle23" time="50" />
+			<frame name="Idle24" time="50" />
+			<frame name="Idle25" time="50" />
+			<frame name="Idle26" time="50" />
+			<frame name="Idle27" time="50" />
+			<frame name="Idle28" time="50" />
+			<frame name="Idle29" time="50" />
+			<frame name="Idle30" time="100" />
+			<frame name="Idle31" time="200" />
+			<frame name="Idle32" time="2000" />
+			<frame name="Idle33" time="200" />
+			<frame name="Idle34" time="100" />
+			<frame name="Idle35" time="50" />
+			<frame name="Idle36" time="50" />
+			<frame name="Idle37" time="50" />
+			<frame name="Idle38" time="50" />
+			<frame name="Idle39" time="50" />
+			<frame name="Idle40" time="50" />
+			<frame name="Idle41" time="50" />
+			<frame name="Idle42" time="200" />
+			<frame name="Idle43" time="2000" />
+			<frame name="Idle44" time="200" />
+			<frame name="Idle45" time="50" />
+			<frame name="Idle46" time="50" />
+			<frame name="Idle47" time="50" />
+			<frame name="Idle48" time="50" />
+			<frame name="Idle49" time="50" />
+			<frame name="Idle50" time="50" />
+			<frame name="Idle51" time="50" />
+			<frame name="Idle52" time="50" />
+			<frame name="Idle53" time="50" />
+			<frame name="Idle54" time="50" />
+			<frame name="Idle55" time="50" />
+			<frame name="Idle56" time="50" />
+			<frame name="Idle57" time="50" />
+			<frame name="Idle58" time="50" />
+			<frame name="Idle59" time="50" />
+			<frame name="Idle60" time="50" />
+			<frame name="Idle61" time="50" />
+			<frame name="Idle62" time="50" />
+			<frame name="Idle63" time="50" />
+			<frame name="Idle64" time="50" />
+			<frame name="Idle65" time="50" />
+			<frame name="Idle66" time="50" />
+			<frame name="Idle67" time="50" />
+			<frame name="Idle68" time="50" />
+			<frame name="Idle69" time="50" />
+			<frame name="Idle70" time="50" />
+			<frame name="Idle71" time="50" />
+			<frame name="Idle72" time="50" />
+			<frame name="Idle73" time="50" />
+			<frame name="Idle74" time="50" />
+			<frame name="Idle75" time="50" />
+			<frame name="Idle76" time="50" />
+			<frame name="Idle77" time="50" />
+			<frame name="Idle78" time="50" />
+			<frame name="Idle79" time="50" />
+			<frame name="Idle80" time="50" />
+			<frame name="Idle81" time="50" />
+			<frame name="Idle82" time="50" />
+			<frame name="Idle83" time="50" />
+			<frame name="Idle84" time="50" />
+			<frame name="Idle85" time="50" />
+			<frame name="Idle86" time="50" />
+			<frame name="Idle87" time="50" />
+			<frame name="Idle88" time="50" />
+		</sequence>						
+		<sequence name="Collected">
+			<frame name="Collected01" time="50" />
+			<frame name="Collected02" time="50" />
+			<frame name="Collected03" time="50" />
+			<frame name="Collected04" time="50" />
+			<frame name="Collected05" time="50" />
+			<frame name="Collected06" time="50" />
+			<frame name="Collected07" time="50" />
+			<frame name="Collected08" time="50" />
+			<frame name="Collected09" time="50" />
+			<frame name="Collected10" time="50" />
+			<frame name="Collected11" time="50" />
+			<frame name="Collected12" time="50" />
+			<frame name="Collected13" time="50" />
+			<frame name="Collected14" time="50" />
+			<frame name="Collected15" time="50" />
+			<frame name="Collected16" time="50" />
+			<frame name="Collected17" time="50" />
+			<frame name="Collected18" time="50" />
+			<frame name="Collected19" time="50" />
+			<frame name="Collected20" time="50" />
+			<frame name="Collected21" time="50" />
+			<frame name="Collected22" time="50" />
+			<frame name="Collected23" time="50" />
+			<frame name="Collected24" time="50" />
+			<frame name="Collected25" time="50" />
+			<frame name="Collected26" time="50" />
+			<frame name="Collected27" time="50" />
+		</sequence>						
+	</sequences>
+</animation>

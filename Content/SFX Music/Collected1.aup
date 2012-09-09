@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<audacityproject projname="Collected1_data" version="1.1.0" audacityversion="1.2.6" sel0="1.4932565947" sel1="1.4932565947" vpos="0" h="0.0000000000" zoom="449.3534482759" rate="48000.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="7319__schademans__bubbles4" channel="2" linked="0" offset="-0.02447917" rate="48000.000000" gain="0.251189" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="72744" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00006.au' len='71783' min='-0.893890' max='0.877075' rms='0.079037'/>
+			</waveblock>
+			<waveblock start="71783" >
+				<simpleblockfile filename='b00007.au' len='961' min='-0.003877' max='0.002980' rms='0.000118'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="8000__cfork__cf_FX_bloibb" channel="2" linked="0" offset="1.05931250" rate="48000.000000" gain="0.501187" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="20829" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00002.au' len='20829' min='-1.000000' max='0.986254' rms='0.050987'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

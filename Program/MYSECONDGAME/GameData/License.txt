@@ -1,0 +1,41 @@
+----------AUDIO FX-----------:
+All audio FX used in the game are property of the respective authors.
+All files are freely available at http://www.freesound.org
+
+Files used:
+From: junggle
+http://www.freesound.org/samplesViewSingle.php?id=30342
+http://www.freesound.org/samplesViewSingle.php?id=30341
+From: gfzxpo
+http://www.freesound.org/packsViewSingle.php?id=4545
+From: schademans
+http://www.freesound.org/samplesViewSingle.php?id=7319
+From: cfork
+http://www.freesound.org/samplesViewSingle.php?id=8000
+From: dobroide
+http://www.freesound.org/samplesViewSingle.php?id=34579
+From: Anton
+http://www.freesound.org/samplesViewSingle.php?id=1257
+http://www.freesound.org/samplesViewSingle.php?id=1258
+From: Sugu14
+http://www.freesound.org/samplesViewSingle.php?id=77972
+http://www.freesound.org/samplesViewSingle.php?id=77971
+From: thanvannispen
+http://www.freesound.org/samplesViewSingle.php?id=29998
+http://www.freesound.org/samplesViewSingle.php?id=29997
+http://www.freesound.org/samplesViewSingle.php?id=30001
+http://www.freesound.org/samplesViewSingle.php?id=30008
+From: Q.K.
+http://www.freesound.org/samplesViewSingle.php?id=56249
+http://www.freesound.org/samplesViewSingle.php?id=56250
+
+-----------MUSIC-------------:
+The file LevelMusic1.ogg was remixed by game author from the
+following samples freely available:
+- "141208 eau 01" - by Morusque, available at http://ccmixter.org/files/Nurykabe/18170
+  under license Creative Commons Attribution 3.0 Unported (http://creativecommons.org/licenses/by/3.0/)
+- "Summer Dance" - by Pitx, available at http://ccmixter.org/files/Pitx/21393
+  under license Creative Commons Attribution-Noncommercial 3.0 Unported (http://creativecommons.org/licenses/by-nc/3.0/)
+
+Thanks to Scott F. Thomson (www.scottthomson.tk) for letting me use his
+song "Water Gardens" in my game

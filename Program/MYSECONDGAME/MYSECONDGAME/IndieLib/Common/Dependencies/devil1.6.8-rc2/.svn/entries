@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/devil1.6.8-rc2"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+</wc-entries>

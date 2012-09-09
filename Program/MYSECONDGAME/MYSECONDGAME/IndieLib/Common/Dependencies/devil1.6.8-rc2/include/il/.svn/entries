@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/devil1.6.8-rc2/include/il"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="ilu.h"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="906ae714b6254c5ba6dcab1f253189c0"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+<entry
+   committed-rev="10"
+   name="ilu_region.h"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="b676d3c72921a508cc2c4ce9f371a627"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+<entry
+   committed-rev="10"
+   name="ilut.h"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="e0373903f2ca499ec28ab40b3ed138bb"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+<entry
+   committed-rev="10"
+   name="config.h.win"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="ffd0134d6a59154b433fca977cd5e705"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+<entry
+   committed-rev="10"
+   name="devil_internal_exports.h"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="3423430b016470695f4f137dfe330c63"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+<entry
+   committed-rev="10"
+   name="il.h"
+   text-time="2009-07-16T13:50:08.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="701e7d62fefe87880cacd7e106984a28"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:08.000000Z"/>
+</wc-entries>

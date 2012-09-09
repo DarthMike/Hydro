@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<audacityproject projname="LevelComplete_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="7.9825850340" vpos="0" h="0.0000000000" zoom="100.8738151659" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="34579__dobroide__20070427.nightingale.thrill.edit" channel="0" linked="1" offset="0.00000000" rate="44100.000000" gain="1.995262" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="352032" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00012.au' len='262144' min='-0.401305' max='0.160607' rms='0.064581'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00014.au' len='89888' min='-0.410561' max='0.404535' rms='0.077305'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="34579__dobroide__20070427.nightingale.thrill.edit" channel="1" linked="0" offset="0.00000000" rate="44100.000000" gain="1.995262" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="352032" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00013.au' len='262144' min='-0.306998' max='0.152029' rms='0.052371'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00015.au' len='89888' min='-0.396248' max='0.406243' rms='0.069110'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

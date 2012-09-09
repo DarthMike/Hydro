@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/SDL-1.2.13/include"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_macos.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="3058443f16d77964157f15de48f05bf2"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config.h.default"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="a8d6c9e43b8c9c9d39f2f080d5547f25"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_dreamcast.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="666b0b8adaabb6b81fb9340c1953989a"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_error.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="5fb3271472ef250fae59ae26284cbe1b"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_audio.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="a52f71de86a3cc31a17c70aa729d8ed4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_cpuinfo.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="2cea8ec0a7278fa34a0c8baadf89d45c"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_events.h"
+   text-time="2009-07-16T13:49:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="7920b92adf094e7e6ad1ea1a45345112"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_video.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="bb65e44f481921603d362cc3f0d02f61"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_thread.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="607c30e86334cc02d0f77727ab941ed7"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config.h.in"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="ec00e1c0154070ca42e345b73b65a6b4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_rwops.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="4717901ca6ba876f905b7492930b6e84"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_active.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="f4eee2eb92cf7c2b8a38023a57b67482"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="begin_code.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="3ed0c84283bb9d326547274de4f340ad"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_timer.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="8f16dc5d11365ecadda1637e0c69375f"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_main.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="561c05ab16012d3a24de7a93c23bd856"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_opengl.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="5fbb38356d8fb5431c9c52afa402b114"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_stdinc.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="560092aab0b6bcdad58493b121e10f70"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_version.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="3cc35fefd24540449c96d059266be036"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_win32.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="18f34348d1a2e7bfb252a9a22badc905"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_symbian.h"
+   text-time="2009-07-16T13:50:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="44e844c895e6ec36aea39fda2e2f002c"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_mouse.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="b2c8b2183bb48079255f7c3a8de39d4b"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_getenv.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="72d7e927397c7be73144e840657f1dfd"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_os2.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="9066f4cb6313bbbf90986ece079c96b2"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="close_code.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="ba0ae2ef243d053c20d3d81f261610a4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_endian.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="11cd9b0bd7710a02df805174d3a852e4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_joystick.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="d3767c4c82853bba6911aeceda748ab4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_byteorder.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="08177fdd5fb5b51efc2ce7b22e9e6ea0"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:56.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_keyboard.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="93cd0fdcc785ee41ea2238cfa0fc0e19"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_mutex.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="baacfba3f27f1d5e69f5bee0be0ec109"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_amiga.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="59315e71be404d113bbbda01973901c5"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_types.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="72d7e927397c7be73144e840657f1dfd"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_cdrom.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="f1656681e9f24a939666b6af15bf4151"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config.h"
+   text-time="2009-07-16T13:50:02.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="a8d6c9e43b8c9c9d39f2f080d5547f25"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_copying.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="d60fc164984abd8aba9aea3bb08391b3"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_nds.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="dc754604401da188cd7ed59b24b3db1b"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_minimal.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="c4189bf0f1a4a620d7efd3b6fec13912"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_config_macosx.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="2c9ebfdad1b95ed716e6440b53b04b86"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_name.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="bf4e5f8b4e5bdab7119db8b5b0e7e6da"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="fbdcf67587a4ec39c4c97eb156107119"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_loadso.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="309c13fe741cb6809ad9d461c7d4f078"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_keysym.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="202b3164e8c4d9e6e630c756a4e5c267"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_quit.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="c028400f2d8591931dcc8d77c6e99398"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_syswm.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="054f06a4909ab46703cac7fe152cd6d4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDL_platform.h"
+   text-time="2009-07-16T13:50:04.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="dbbd3e343c0a36b6db3bfd0141790cc1"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:58.000000Z"/>
+</wc-entries>

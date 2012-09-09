@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Dynamics/Controllers"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2ConstantAccelController.h"
+   text-time="2009-11-25T11:53:14.062500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="24e587207923b23f1a2020ab9b85adf8"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.859375Z"/>
+<entry
+   committed-rev="195"
+   name="b2ConstantForceController.cpp"
+   text-time="2009-11-25T11:53:14.203125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="894d0550063b3fbeda9a4dd349a94b52"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.859375Z"/>
+<entry
+   committed-rev="195"
+   name="b2BuoyancyController.cpp"
+   text-time="2009-11-25T11:53:14.265625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="21d7109795d23a365aef4466d0a43d74"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2GravityController.h"
+   text-time="2009-11-25T11:53:14.375000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="1efdb9ef806ec103b71b236c71534d05"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2TensorDampingController.cpp"
+   text-time="2009-11-25T11:53:14.390625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="d8dbf32aac6b4bddc13747f775c22145"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2ConstantForceController.h"
+   text-time="2009-11-25T11:53:14.390625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="a5c06e70e0ec600221e762e6bc2b8729"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.890625Z"/>
+<entry
+   committed-rev="195"
+   name="b2BuoyancyController.h"
+   text-time="2009-11-25T11:53:14.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="9188337b0eb8a76fe8a1c7d53b2a8e1e"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.890625Z"/>
+<entry
+   committed-rev="195"
+   name="b2Controller.cpp"
+   text-time="2009-11-25T11:53:14.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="7a94c6517b870f5d24a35a61cbf9c2ca"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.890625Z"/>
+<entry
+   committed-rev="195"
+   name="b2TensorDampingController.h"
+   text-time="2009-11-25T11:53:14.421875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="3229f7b96aeb35ee856b9206fcd8cb17"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.937500Z"/>
+<entry
+   committed-rev="195"
+   name="b2ConstantAccelController.cpp"
+   text-time="2009-11-25T11:53:14.421875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="69f68a83a10da8b864405c307d9ab08f"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.953125Z"/>
+<entry
+   committed-rev="195"
+   name="b2Controller.h"
+   text-time="2009-11-25T11:53:14.453125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="14cd355ec5d6d7c2af6d5979b1d41db9"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.953125Z"/>
+<entry
+   committed-rev="195"
+   name="b2GravityController.cpp"
+   text-time="2009-11-25T11:53:14.468750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="526a9b5486b7c85cbe4e893db7289162"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.015625Z"/>
+</wc-entries>

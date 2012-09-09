@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Dynamics"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2Island.cpp"
+   text-time="2009-11-25T11:53:29.156250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="d61d6d38abeed67d1e2eb8d20580c9e6"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.562500Z"/>
+<entry
+   committed-rev="195"
+   name="b2ContactManager.h"
+   text-time="2009-11-25T11:53:29.171875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="ad48398ad066b6233165bd6313938d1d"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.593750Z"/>
+<entry
+   committed-rev="195"
+   name="b2World.h"
+   text-time="2009-11-25T11:53:29.171875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="8fabebc0e68e2d91c19dc4c31a9755e7"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.593750Z"/>
+<entry
+   committed-rev="195"
+   name="b2WorldCallbacks.h"
+   text-time="2009-11-25T11:53:29.171875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="e02b52211741d936129a586da685a807"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.609375Z"/>
+<entry
+   committed-rev="195"
+   name="b2Body.cpp"
+   text-time="2009-11-25T11:53:29.187500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="f2bf0134e710e03bc6aa31083bf7417a"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.640625Z"/>
+<entry
+   committed-rev="195"
+   name="b2Island.h"
+   text-time="2009-11-25T11:53:29.187500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="71fdab0bf085c1ae557f8d49306e7aa2"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:13.703125Z"/>
+<entry
+   name="Controllers"
+   kind="dir"/>
+<entry
+   name="Joints"
+   kind="dir"/>
+<entry
+   committed-rev="195"
+   name="b2Body.h"
+   text-time="2009-11-25T11:53:29.187500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="02dfe915f9b8f64c01531788ebf23d4f"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.468750Z"/>
+<entry
+   committed-rev="195"
+   name="b2ContactManager.cpp"
+   text-time="2009-11-25T11:53:29.187500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="59e914afb37b4254cf550a3e045c01e5"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.484375Z"/>
+<entry
+   committed-rev="195"
+   name="b2World.cpp"
+   text-time="2009-11-25T11:53:29.203125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="91fce858ef143550be8c38f3b7662fa8"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:23.687500Z"/>
+<entry
+   committed-rev="195"
+   name="b2WorldCallbacks.cpp"
+   text-time="2009-11-25T11:53:29.203125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="3774b4fafff3cee14cc56fd9dba5b5bc"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:23.703125Z"/>
+<entry
+   name="Contacts"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,10 @@
+del *.obj
+del *.exp
+del *.idb
+del *.pch
+del *.dll
+del *.lib
+del *.manifest
+del *.dep
+del *.pdb
+del *.htm

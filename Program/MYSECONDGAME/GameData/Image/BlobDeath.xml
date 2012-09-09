@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+	<!-- frames declaration -->
+	<frames>	
+		<!-- Blob Right Animation -->
+		<frame name ="Death00" file= "..\GameData\Image\BlobDeath\BlobDeath00000.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death01" file= "..\GameData\Image\BlobDeath\BlobDeath00001.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death02" file= "..\GameData\Image\BlobDeath\BlobDeath00002.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death03" file= "..\GameData\Image\BlobDeath\BlobDeath00003.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death04" file= "..\GameData\Image\BlobDeath\BlobDeath00004.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death05" file= "..\GameData\Image\BlobDeath\BlobDeath00005.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death06" file= "..\GameData\Image\BlobDeath\BlobDeath00006.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death07" file= "..\GameData\Image\BlobDeath\BlobDeath00007.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death08" file= "..\GameData\Image\BlobDeath\BlobDeath00008.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death09" file= "..\GameData\Image\BlobDeath\BlobDeath00009.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death10" file= "..\GameData\Image\BlobDeath\BlobDeath00010.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death11" file= "..\GameData\Image\BlobDeath\BlobDeath00011.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death12" file= "..\GameData\Image\BlobDeath\BlobDeath00012.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death13" file= "..\GameData\Image\BlobDeath\BlobDeath00013.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death14" file= "..\GameData\Image\BlobDeath\BlobDeath00014.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death15" file= "..\GameData\Image\BlobDeath\BlobDeath00015.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death16" file= "..\GameData\Image\BlobDeath\BlobDeath00016.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death17" file= "..\GameData\Image\BlobDeath\BlobDeath00017.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death18" file= "..\GameData\Image\BlobDeath\BlobDeath00018.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death19" file= "..\GameData\Image\BlobDeath\BlobDeath00019.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death20" file= "..\GameData\Image\BlobDeath\BlobDeath00020.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death21" file= "..\GameData\Image\BlobDeath\BlobDeath00021.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death22" file= "..\GameData\Image\BlobDeath\BlobDeath00022.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death23" file= "..\GameData\Image\BlobDeath\BlobDeath00023.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death24" file= "..\GameData\Image\BlobDeath\BlobDeath00024.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death25" file= "..\GameData\Image\BlobDeath\BlobDeath00025.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death26" file= "..\GameData\Image\BlobDeath\BlobDeath00026.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death27" file= "..\GameData\Image\BlobDeath\BlobDeath00027.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death28" file= "..\GameData\Image\BlobDeath\BlobDeath00028.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death29" file= "..\GameData\Image\BlobDeath\BlobDeath00029.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death30" file= "..\GameData\Image\BlobDeath\BlobDeath00030.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death31" file= "..\GameData\Image\BlobDeath\BlobDeath00031.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death32" file= "..\GameData\Image\BlobDeath\BlobDeath00032.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death33" file= "..\GameData\Image\BlobDeath\BlobDeath00033.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death34" file= "..\GameData\Image\BlobDeath\BlobDeath00034.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death35" file= "..\GameData\Image\BlobDeath\BlobDeath00035.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death36" file= "..\GameData\Image\BlobDeath\BlobDeath00036.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death37" file= "..\GameData\Image\BlobDeath\BlobDeath00037.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death38" file= "..\GameData\Image\BlobDeath\BlobDeath00038.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death39" file= "..\GameData\Image\BlobDeath\BlobDeath00039.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death40" file= "..\GameData\Image\BlobDeath\BlobDeath00040.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<!--<frame name ="Death41" file= "..\GameData\Image\BlobDeath\BlobDeath00041.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death42" file= "..\GameData\Image\BlobDeath\BlobDeath00042.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death43" file= "..\GameData\Image\BlobDeath\BlobDeath00043.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death44" file= "..\GameData\Image\BlobDeath\BlobDeath00044.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death45" file= "..\GameData\Image\BlobDeath\BlobDeath00045.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death46" file= "..\GameData\Image\BlobDeath\BlobDeath00046.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death47" file= "..\GameData\Image\BlobDeath\BlobDeath00047.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death48" file= "..\GameData\Image\BlobDeath\BlobDeath00048.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death49" file= "..\GameData\Image\BlobDeath\BlobDeath00049.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death50" file= "..\GameData\Image\BlobDeath\BlobDeath00050.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/>
+		<frame name ="Death51" file= "..\GameData\Image\BlobDeath\BlobDeath00051.png"collision="..\GameData\Image\BlobDeath\BlobDeath_collisions.xml"/> -->
+	</frames>
+		
+	<!-- sequences declaration -->
+	<sequences>
+		<!-- Blob Face -->
+		<sequence name="Death1">
+			<frame name="Death00"  time="4" />
+			<frame name="Death01"  time="4" />
+			<frame name="Death02"  time="4" />
+			<frame name="Death03"  time="4" />
+			<frame name="Death04"  time="4" />
+			<frame name="Death05"  time="4" />
+			<frame name="Death06"  time="4" />
+			<frame name="Death07"  time="4" />
+			<frame name="Death08"  time="4" />
+			<frame name="Death09"  time="4" />
+			<frame name="Death10"  time="4" />
+			<frame name="Death11"  time="4" />
+			<frame name="Death12"  time="4" />
+			<frame name="Death13"  time="4" />
+			<frame name="Death14"  time="4" />
+			<frame name="Death15"  time="4" />
+			<frame name="Death16"  time="4" />
+			<frame name="Death17"  time="4" />
+			<frame name="Death18"  time="4" />
+			<frame name="Death19"  time="4" />
+			<frame name="Death20"  time="4" />
+			<frame name="Death21"  time="4" />
+			<frame name="Death22"  time="4" />
+			<frame name="Death23"  time="4" />
+			<frame name="Death24"  time="4" />
+			<frame name="Death25"  time="4" />
+			<frame name="Death26" time="10" />
+			<frame name="Death27"  time="4" />
+			<frame name="Death28"  time="4" />
+			<frame name="Death29"  time="4" />
+			<frame name="Death30"  time="4" />
+			<frame name="Death31"  time="4" />
+			<frame name="Death32"  time="4" />
+			<frame name="Death33"  time="4" />
+			<frame name="Death34"  time="4" />
+			<frame name="Death35"  time="4" />
+			<frame name="Death36"  time="4" />
+			<frame name="Death37"  time="4" />
+			<frame name="Death38"  time="4" />
+			<frame name="Death39"  time="4" />
+			<frame name="Death40"  time="4" />
+		<!--	<frame name="Death41"  time="4" />
+			<frame name="Death42"  time="4" />
+			<frame name="Death43"  time="4" />
+			<frame name="Death44"  time="4" />
+			<frame name="Death45"  time="4" />
+			<frame name="Death46"  time="4" />
+			<frame name="Death47"  time="4" />
+			<frame name="Death48"  time="4" />
+			<frame name="Death49"  time="4" />
+			<frame name="Death50"  time="4" />
+			<frame name="Death51"  time="4" /> -->
+		</sequence>						
+	</sequences>
+</animation>

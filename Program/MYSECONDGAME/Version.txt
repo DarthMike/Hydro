@@ -1,0 +1,7 @@
+CURRENT VERSION: 0.8
+
+This software is copyright Miguel Angel Quiñones García. It is a
+skills demo and not intended for any commercial purposes.
+It uses audio from other sources, freely available for non commercial
+use (see corresponding file).
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO OVERLAY************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Mouse Cursor -->
+	<Sprite Id= "MouseCursor" x = "0" y ="0"  z = "0" w = "0.3" h = "0.3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "63">
+		<Image Id = "MouseCursor"/>
+	</Sprite>
+
+	<!-- Display Text -->
+	<Sprite Id = "DebugText" x = "-4" y ="8" z = "1"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "63">
+			<Font Id = "GenSmall" LineSpacing ="14" CharSpacing = "0" Align = "Left"/>	
+	</Sprite>
+	<Sprite Id = "CollectedText" x = "4" y ="9" z = "1"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "63">
+			<Font Id = "GenSmall" LineSpacing ="14" CharSpacing = "0" Align = "Right"/>	
+	</Sprite>
+	<Sprite Id = "MessagesText" x = "0" y ="6" z = "0"  w = "4" h = "1" Rotation = "0" Transp = "150" FlipX = "0" FlipY = "0" Layer = "63">
+			<Font Id = "GenSmall" LineSpacing ="14" CharSpacing = "0" Align = "Center"/>	
+	</Sprite>
+</Entities>

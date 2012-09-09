@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO OVERLAY************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Drop -->
+	<Sprite Id= "Drop" x = "4" y ="11"  z = "5" w = "4.5" h = "5.25" Rotation = "0" Transp = "215" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_WaterDrop"/>
+	</Sprite> 
+	<!-- Raining Background -->
+	<Sprite Id= "Rain_Background" x = "4" y ="3"  z = "0" w = "8" h = "6" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Animation Id = "Rain"/>
+	</Sprite> 
+
+	<!-- Menu Items -->
+	<Sprite Id= "Menu_Start" x = "3" y ="2.2"  z = "10" w = "2.25" h = "0.5625" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_Start"/>
+	</Sprite> 
+		
+	<Sprite Id= "Menu_Exit" x = "5" y ="2.2"  z = "10" w = "2.25" h = "0.5625"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_Exit"/>
+	</Sprite> 
+
+	<Sprite Id= "Menu_Credits" x = "4" y ="0.9"  z = "10" w = "2.25" h = "0.5625"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_Credits"/>
+	</Sprite> 
+
+	<Sprite Id= "Menu_Controls" x = "4" y ="1.6"  z = "10" w = "2.25" h = "0.5625"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_Controls"/>
+	</Sprite> 
+
+	<Sprite Id= "Menu_Title" x = "4" y ="3.5"  z = "10" w = "3.75" h = "0.9375" Rotation = "0" Transp = "200" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MainMenu_Title"/>
+	</Sprite> 
+
+	<!-- Mouse Cursor -->
+	<Sprite Id= "MouseCursor" x = "4" y ="3"  z = "100" w = "0.3" h = "0.3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+		<Image Id = "MouseCursor"/>
+	</Sprite>
+</Entities>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Common"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2BlockAllocator.cpp"
+   text-time="2009-11-25T11:53:32.703125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="4e94f8acaca392bfabe170d2a8c58c5f"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:29.296875Z"/>
+<entry
+   committed-rev="195"
+   name="b2StackAllocator.h"
+   text-time="2009-11-25T11:53:32.718750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="9444b3b128fd3ee91ecbc0409000feaf"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:29.296875Z"/>
+<entry
+   committed-rev="195"
+   name="b2Math.h"
+   text-time="2009-11-25T11:53:32.718750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="eeb42726c61ceca64a047a6b217a41ea"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:29.593750Z"/>
+<entry
+   committed-rev="195"
+   name="jtypes.h"
+   text-time="2009-11-25T11:53:32.718750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="580013d6d84c3aad222919bed66dc044"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:29.609375Z"/>
+<entry
+   committed-rev="195"
+   name="Fixed.h"
+   text-time="2009-11-25T11:53:32.734375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="36f7b05f73e177b2e70a8449105fddd8"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:31.250000Z"/>
+<entry
+   committed-rev="195"
+   name="b2BlockAllocator.h"
+   text-time="2009-11-25T11:53:32.734375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="ea9c90b9866c62deb757709d8b79c5f4"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:31.265625Z"/>
+<entry
+   committed-rev="195"
+   name="b2Settings.cpp"
+   text-time="2009-11-25T11:53:32.750000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="dac1f99a4ec0933724ed74ecee1e6116"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:31.265625Z"/>
+<entry
+   committed-rev="195"
+   name="b2Settings.h"
+   text-time="2009-11-25T11:53:32.750000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="5f43c6ab0f3d994d7e1ff465f66b71d1"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:32.687500Z"/>
+<entry
+   committed-rev="195"
+   name="b2StackAllocator.cpp"
+   text-time="2009-11-25T11:53:32.750000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="07bfe140eea5c747275ac97de1f2e583"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:32.687500Z"/>
+<entry
+   committed-rev="195"
+   name="b2Math.cpp"
+   text-time="2009-11-25T11:53:32.765625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="ab707ecade5eafe96b24d6290a585c6c"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:32.703125Z"/>
+</wc-entries>

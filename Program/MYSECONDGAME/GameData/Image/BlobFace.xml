@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+	<!-- frames declaration -->
+	<frames>	
+		<!-- Blob Right Animation -->
+		<frame name ="Idle01" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 1.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle02" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 2.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle03" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 3.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle04" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 4.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle05" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 5.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle06" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 6.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle07" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 7.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle08" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 8.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle09" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 9.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle10" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 10.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle11" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 11.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle12" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 12.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle13" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 13.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle14" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 14.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle15" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 15.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle16" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 16.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle17" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 17.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle18" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 18.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle19" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 19.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle20" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 20.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle21" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 21.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle22" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 22.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle23" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 23.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle24" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 24.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle25" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 25.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle26" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 26.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle27" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 27.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle28" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 28.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle29" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 29.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle30" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 30.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle31" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 31.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle32" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 32.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle33" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 33.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle34" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 34.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle35" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 35.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle36" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 36.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle37" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 37.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle38" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 38.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle39" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 39.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle40" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 40.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle41" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 41.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle42" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 42.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle43" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 43.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle44" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 44.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle45" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 45.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle46" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 46.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle47" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 47.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle48" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 48.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle49" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 49.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle50" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 50.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle51" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 51.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle52" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 52.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle53" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 53.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle54" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 54.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle55" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 55.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle56" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 56.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle57" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 57.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle58" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 58.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle59" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 59.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle60" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 60.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle61" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 61.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle62" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 62.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name ="Idle63" file= "..\GameData\Image\BlobAnims\Animation_Idle_Frame 63.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Right1" file="..\GameData\Image\BlobAnims\Animation_Right_01.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Right2" file="..\GameData\Image\BlobAnims\Animation_Right_02.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Right3" file="..\GameData\Image\BlobAnims\Animation_Right_03.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Right4" file="..\GameData\Image\BlobAnims\Animation_Right_04.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Right5" file="..\GameData\Image\BlobAnims\Animation_Right_05.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Left1" file = "..\GameData\Image\BlobAnims\Animation_Left_01.png" collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Left2" file = "..\GameData\Image\BlobAnims\Animation_Left_02.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Left3" file = "..\GameData\Image\BlobAnims\Animation_Left_03.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Left4" file = "..\GameData\Image\BlobAnims\Animation_Left_04.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Left5" file = "..\GameData\Image\BlobAnims\Animation_Left_05.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage1" file = "..\GameData\Image\BlobAnims\Animation_Damage_01.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage2" file = "..\GameData\Image\BlobAnims\Animation_Damage_02.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage3" file = "..\GameData\Image\BlobAnims\Animation_Damage_03.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage4" file = "..\GameData\Image\BlobAnims\Animation_Damage_04.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage5" file = "..\GameData\Image\BlobAnims\Animation_Damage_05.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage6" file = "..\GameData\Image\BlobAnims\Animation_Damage_06.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage7" file = "..\GameData\Image\BlobAnims\Animation_Damage_07.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage8" file = "..\GameData\Image\BlobAnims\Animation_Damage_08.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage9" file = "..\GameData\Image\BlobAnims\Animation_Damage_09.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage10" file = "..\GameData\Image\BlobAnims\Animation_Damage_010.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+		<frame name="Damage11" file = "..\GameData\Image\BlobAnims\Animation_Damage_011.png"collision="..\GameData\Image\BlobAnims\BlobAnims_collisions.xml"/>
+	</frames>
+		
+	<!-- sequences declaration -->
+	<sequences>
+		<!-- Blob Face -->
+		<sequence name="Idle1">
+			<frame name="Idle01" time="5000" />
+			<frame name="Idle02" time="200" />
+			<frame name="Idle03" time="200" />
+			<frame name="Idle04" time="100" />
+			<frame name="Idle05" time="50" />
+			<frame name="Idle06" time="50" />
+			<frame name="Idle07" time="50" />
+			<frame name="Idle08" time="50" />
+			<frame name="Idle09" time="50" />
+			<frame name="Idle10" time="50" />
+			<frame name="Idle11" time="50" />
+			<frame name="Idle12" time="50" />
+			<frame name="Idle13" time="50" />
+			<frame name="Idle14" time="50" />
+			<frame name="Idle15" time="50" />
+			<frame name="Idle16" time="50" />
+			<frame name="Idle17" time="50" />
+			<frame name="Idle18" time="150" />
+			<frame name="Idle19" time="300" />
+			<frame name="Idle20" time="2000" />
+			<frame name="Idle21" time="300" />
+			<frame name="Idle22" time="150" />
+			<frame name="Idle23" time="50" />
+			<frame name="Idle24" time="50" />
+			<frame name="Idle25" time="50" />
+			<frame name="Idle26" time="50" />
+			<frame name="Idle27" time="50" />
+			<frame name="Idle28" time="50" />
+			<frame name="Idle29" time="50" />
+			<frame name="Idle30" time="50" />
+			<frame name="Idle31" time="50" />
+			<frame name="Idle32" time="50" />
+			<frame name="Idle33" time="50" />
+			<frame name="Idle34" time="50" />
+			<frame name="Idle35" time="50" />
+			<frame name="Idle36" time="50" />
+			<frame name="Idle37" time="50" />
+			<frame name="Idle38" time="50" />
+			<frame name="Idle39" time="50" />
+			<frame name="Idle40" time="50" />
+			<frame name="Idle41" time="50" />
+			<frame name="Idle42" time="50" />
+			<frame name="Idle43" time="50" />
+			<frame name="Idle44" time="50" />
+			<frame name="Idle45" time="50" />
+			<frame name="Idle46" time="50" />
+			<frame name="Idle47" time="150" />
+			<frame name="Idle48" time="200" />
+			<frame name="Idle49" time="2000" />
+			<frame name="Idle50" time="200" />
+			<frame name="Idle51" time="150" />
+			<frame name="Idle52" time="50" />
+			<frame name="Idle53" time="50" />
+			<frame name="Idle54" time="50" />
+			<frame name="Idle55" time="50" />
+			<frame name="Idle56" time="50" />
+			<frame name="Idle57" time="50" />
+			<frame name="Idle58" time="50" />
+			<frame name="Idle59" time="50" />
+			<frame name="Idle60" time="50" />
+			<frame name="Idle61" time="50" />
+			<frame name="Idle62" time="50" />
+			<frame name="Idle63" time="50" />
+		</sequence>						
+		<sequence name="MoveLeft">
+			<frame name="Idle01" time="20" />
+			<frame name="Left1" time="20" />
+			<frame name="Left2" time="40" />
+			<frame name="Left3" time="40" />
+			<frame name="Left4" time="40" />
+			<frame name="Left5" time="40" />
+		</sequence>	
+		<sequence name="MoveLeftInv">
+			<frame name="Left5" time="40" />
+			<frame name="Left4" time="40" />
+			<frame name="Left3" time="40" />
+			<frame name="Left2" time="40" />
+			<frame name="Left1" time="20" />
+			<frame name="Idle01" time="20" />
+		</sequence>	
+		<sequence name="MoveRight">
+			<frame name="Idle01" time="20" />
+			<frame name="Right1" time="20" />
+			<frame name="Right2" time="40" />
+			<frame name="Right3" time="40" />
+			<frame name="Right4" time="40" />
+			<frame name="Right5" time="40" />
+		</sequence>	
+		<sequence name="MoveRightInv">
+			<frame name="Right5" time="40" />
+			<frame name="Right4" time="40" />
+			<frame name="Right3" time="40" />
+			<frame name="Right2" time="40" />
+			<frame name="Right1" time="20" />
+			<frame name="Idle01" time="20" />
+		</sequence>			
+		<sequence name="Damage">
+			<frame name="Idle01" time="10" />
+			<frame name="Damage1" time="20" />
+			<frame name="Damage2" time="20" />
+			<frame name="Damage3" time="20" />
+			<frame name="Damage4" time="20" />
+			<frame name="Damage5" time="20" />
+			<frame name="Damage6" time="20" />
+			<frame name="Damage7" time="20" />
+			<frame name="Damage8" time="30" />
+			<frame name="Damage9" time="40" />
+			<frame name="Damage10" time="40" />
+			<frame name="Damage11" time="100" />
+			<frame name="Damage10" time="40" />
+			<frame name="Damage9" time="40" />
+			<frame name="Damage8" time="30" />
+			<frame name="Damage7" time="20" />
+			<frame name="Damage6" time="20" />
+			<frame name="Damage5" time="20" />
+			<frame name="Damage4" time="20" />
+			<frame name="Damage3" time="20" />
+			<frame name="Damage2" time="20" />
+			<frame name="Damage1" time="20" />
+			<frame name="Idle01" time="10" />
+		</sequence>	
+	</sequences>
+</animation>

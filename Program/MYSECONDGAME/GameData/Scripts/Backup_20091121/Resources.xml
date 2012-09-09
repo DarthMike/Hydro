@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******RESOURCES SCRIPT TO LEVEL************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!--
+	EVERY GROUP OF RESOURCES TO LOAD IS DIVIDED IN LEVELS. THERE IS A LEVEL CALLED "COMMON" FOR COMMON
+    RESOURCES USED WIDELY OVER LEVELS // IMPORTANT \\ IT IS ALSO USED BY LEVEL EDITOR TO LOAD ASSETS FOR
+	LEVEL IN EDIT
+-->
+<Level Id = "Common">
+	<!-- Images to load / Leave empty if nothing is to be loaded, but section must exist -->
+	<Images>
+		<StaticImage Id = "OverLay_Restart" Path = "..\GameData\Image\OverLay_Restart.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "HelpLessDrop" Path = "..\GameData\Image\HelpLessDrop.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "MouseCursor" Path = "..\GameData\Image\Cursor.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "EditCursor" Path = "..\GameData\Image\EditCursor.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<Animation Id = "BlobFace" Path = "..\GameData\Image\BlobFace.xml" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<Animation Id = "HelpLessDrop" Path = "..\GameData\Image\HelpLessDrop.xml" KeyR = "255" KeyG = "255"  KeyB = "255"/>		
+		<StaticImage Id = "Brick1" Path = "..\GameData\Image\Brick1_Tile1.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof1" Path = "..\GameData\Image\Roof1_Tile1.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof1_Big" Path = "..\GameData\Image\Roof1_Tile1_Big.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof2" Path = "..\GameData\Image\Roof1_Tile2.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof3" Path = "..\GameData\Image\Roof1_Tile3.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof4" Path = "..\GameData\Image\Roof1_Tile4.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Roof5" Path = "..\GameData\Image\Roof1_Tile5.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "SkyBackground" Path = "..\GameData\Image\Sky_Background.png" KeyR = "0" KeyG = "0"  KeyB = "0"/>
+		<StaticImage Id = "Sun" Path = "..\GameData\Image\Sun.png" KeyR = "0" KeyG = "0"  KeyB = "0"/>
+		<StaticImage Id = "MovingSquare" Path = "..\GameData\Image\Square_Wood.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "MovingCircle" Path = "..\GameData\Image\Circle_Rock.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG1" Path = "..\GameData\Image\MSG1.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG2" Path = "..\GameData\Image\MSG2.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG3" Path = "..\GameData\Image\MSG3.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG4" Path = "..\GameData\Image\MSG4.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG5" Path = "..\GameData\Image\MSG5.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG6" Path = "..\GameData\Image\MSG6.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG7" Path = "..\GameData\Image\MSG7.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "Intro_MSG8" Path = "..\GameData\Image\MSG8.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "MovingTriangle" Path = "..\GameData\Image\Triangle1.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+		<StaticImage Id = "FlyImage1" Path = "..\GameData\Image\insect_clipart_fly.png" KeyR = "255" KeyG = "255"  KeyB = "255"/>
+	</Images>
+
+    <!-- Fonts to load / Leave empty if nothing is to be loaded, but section must exist -->
+	<Fonts>
+		<Font Id = "MainFont" ImagePath = "..\GameData\Image\Font\MainFont.tga" ConfigPath = "..\GameData\Image\Font\MainFont.xml"/>
+		<Font Id = "MainFont_Small" ImagePath = "..\GameData\Image\Font\MainFont_Small.tga" ConfigPath = "..\GameData\Image\Font\MainFont_Small.xml"/>
+		 <Font Id = "GenSmall" ImagePath = "..\GameData\Image\Font\font_small.png" ConfigPath = "..\GameData\Image\Font\font_small.xml"/>
+		 <Font Id = "GenBig" ImagePath = "..\GameData\Image\Font\font_big.png" ConfigPath = "..\GameData\Image\Font\font_big.xml"/>
+    </Fonts>
+
+   <!-- Sounds to load / Leave empty if nothing is to be loaded, but section must exist -->
+   <Audio>
+	    <!-- FX will be loaded fully in memory when played - ONLY WAV SUPPORTED-->
+		<!-- <FX Id = "Effect1" Path = "..\GameData\Audio\11221__jnr_hacksaw__Zap.wav" /> -->
+ 		<!-- Music will be streamed and decoded directly  - ONLY OGG SUPPORTED-->
+		<!-- <Music Id = "Music1" Path = "..\GameData\Audio\ManuelMora-TetrisArcade.ogg" /> -->
+   </Audio>
+</Level>
+
+<Level Id = "Level1">
+	<!-- Images to load / Leave empty if nothing is to be loaded, but section must exist  -->
+	<Images>
+	</Images>
+
+    <!-- Fonts to load / Leave empty if nothing is to be loaded, but section must exist -->
+	<Fonts>
+    </Fonts>
+
+   <!-- Sounds to load / Leave empty if nothing is to be loaded, but section must exist -->
+   <Audio>
+   </Audio>
+</Level>
+
+<Level Id = "Level2">
+	<!-- Images to load / Leave empty if nothing is to be loaded, but section must exist  -->
+	<Images>
+	</Images>
+
+    <!-- Fonts to load / Leave empty if nothing is to be loaded, but section must exist -->
+	<Fonts>
+    </Fonts>
+
+   <!-- Sounds to load / Leave empty if nothing is to be loaded, but section must exist -->
+   <Audio>
+   </Audio>
+</Level>

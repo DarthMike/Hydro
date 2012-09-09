@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Dynamics/Contacts"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2PolyAndEdgeContact.h"
+   text-time="2009-11-25T11:53:29.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="3744db380a2526c9824b9f8c8d17c48b"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.328125Z"/>
+<entry
+   committed-rev="195"
+   name="b2CircleContact.cpp"
+   text-time="2009-11-25T11:53:29.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="a020551e7dbb5167bcaa88fe87a68781"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.343750Z"/>
+<entry
+   committed-rev="195"
+   name="b2CircleContact.h"
+   text-time="2009-11-25T11:53:29.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="2e52cc6d5725afe960f8717d8e727b63"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.593750Z"/>
+<entry
+   committed-rev="195"
+   name="b2EdgeAndCircleContact.cpp"
+   text-time="2009-11-25T11:53:29.125000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="fdae5a370422324a75c4a4bd94d12437"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.718750Z"/>
+<entry
+   committed-rev="195"
+   name="b2ContactSolver.cpp"
+   text-time="2009-11-25T11:53:29.125000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="54b4c65deb6a645286a788999de0f8c0"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2EdgeAndCircleContact.h"
+   text-time="2009-11-25T11:53:28.937500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="b70a5b73ad3f2009fd7d178908aae5ab"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:23.765625Z"/>
+<entry
+   committed-rev="195"
+   name="b2NullContact.h"
+   text-time="2009-11-25T11:53:29.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="b802b9e43f3d602c84e1b2028dcf03b3"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.203125Z"/>
+<entry
+   committed-rev="195"
+   name="b2ContactSolver.h"
+   text-time="2009-11-25T11:53:29.078125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="e487d9ebdf6670d8c7da0a2a89081a99"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.203125Z"/>
+<entry
+   committed-rev="195"
+   name="b2Contact.cpp"
+   text-time="2009-11-25T11:53:28.953125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="0cfabc35600a35b0c830c72c3a0f60b0"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.187500Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolyContact.cpp"
+   text-time="2009-11-25T11:53:29.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="59ecf96c88cca9bf58e8d2cc26cb1258"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.453125Z"/>
+<entry
+   committed-rev="195"
+   name="b2Contact.h"
+   text-time="2009-11-25T11:53:29.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="2be1861296340cd1312e37f78f574fae"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.593750Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolyContact.h"
+   text-time="2009-11-25T11:53:29.125000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="6835d03fd7214afc69a97bda605af5b5"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.625000Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolyAndCircleContact.cpp"
+   text-time="2009-11-25T11:53:29.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="dd303cf484ce2a8bdbc477c0c7a5fe6e"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.625000Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolyAndEdgeContact.cpp"
+   text-time="2009-11-25T11:53:29.125000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="ff030fa01c19e60dcdd7e908c832c6ad"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.921875Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolyAndCircleContact.h"
+   text-time="2009-11-25T11:53:29.140625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="89b0246e1b48dbf7909a113b8247c681"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:28.937500Z"/>
+</wc-entries>

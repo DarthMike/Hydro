@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/SDL-1.2.13/lib"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="SDL.lib"
+   text-time="2009-07-16T13:50:06.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="6bf7b8fec94e53ddcd24d2447ea7a89d"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:06.000000Z"/>
+<entry
+   committed-rev="10"
+   name="SDLmain.lib"
+   text-time="2009-07-16T13:50:06.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="4b15aa06f91ab375d40e8141943aed1b"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:06.000000Z"/>
+</wc-entries>

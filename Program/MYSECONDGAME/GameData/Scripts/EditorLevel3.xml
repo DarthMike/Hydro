@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Level ToCollect="1" />
+<Parallax MaxZoom="0.2" MinZoom="0.07" StartZoom="0.12">
+    <Layer Number="0" SpeedPercentX="0" SpeedPercentY="0" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+    <Layer Number="1" SpeedPercentX="1" SpeedPercentY="0" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+    <Layer Number="2" SpeedPercentX="3" SpeedPercentY="0.5" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+	<Layer Number="3" SpeedPercentX="4" SpeedPercentY="0.8" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+    <Layer Number="15" SpeedPercentX="50" SpeedPercentY="1" ZoomPercent="0" StartPosX="0" StartPosY="0" />
+</Parallax>
+<Entities>
+    <!-- Player controlled character: A blob defined with parameters, and an image or animation -->
+    <Player MaxControlForce="45" MaxSpeed="15.0" DestructionSpeed="30.0" DamageForce="100" ThrowingMaxForce="10" DamageScaleRatio="0.11" DrawColorR="84" DrawColorG="152" DrawColorB="237">
+        <Sprite Id="BlobFace" x="183" y="97" z="0" w="4" h="4" Rotation="0" Transp="120" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+            <Animation Id="BlobFace" />
+        </Sprite>
+        <!-- A blob entity is higly parametric: Options include InnerSkin or not, if not chosen (DoubleSkin = 0) means InnerSkinRadius parameter has no effect  -->
+        <Blob x="183" y="97" Layer="10" Radius="2.7" InnerSkinRadius="2" DoubleSkin="0" Bodies="80" DamageFilterTime="150" InJointsDamping="0.02" InJointsFrequency="2" SkinJointsDamping="0.1" SkinJointsFrequency="50" MassesRadius="0.3" MassesFriction="0.1" MassesRestitution="0" MassesDensity="3.33" InnerMassRadius="0.3" InnerMassDensity="150" />
+    </Player>
+    <Collectable Id="AnimationCopy0" x="162.444" y="120.347" z="0" w="5.71853" h="4.39502" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Animation Id="HelpLessDrop" />
+        <CircleShape Radius="2">0,0</CircleShape>
+    </Collectable>
+    <Sprite Id="Image0" x="0.0809772" y="-0.47" z="0" w="10.13" h="7.6" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="0">
+        <Image Id="SkyBackground" />
+    </Sprite>
+    <Sprite Id="Image1" x="-3.71677" y="2.08" z="0" w="1.32" h="1.34" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="0">
+        <Image Id="Sun" />
+    </Sprite>
+    <Sprite Id="Image10" x="-0.9223" y="135.594" z="1" w="3.4" h="6.81" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="1" WrapX="269" WrapY="128" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="Image11" x="67.8591" y="102.575" z="0" w="10.5" h="12.89" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="Image12" x="79.8229" y="102.764" z="4" w="13.45" h="12.93" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="Image2" x="152.794" y="107.402" z="0" w="15.33" h="15.33" Rotation="0" Transp="177" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Intro_MSG8" />
+    </Sprite>
+    <Sprite Id="Image20" x="2.42218" y="194.511" z="0" w="10.62" h="13.15" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof3" />
+    </Sprite>
+    <Sprite Id="Image28" x="187.883" y="139.371" z="4" w="10.63" h="13.15" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof2" />
+    </Sprite>
+    <Sprite Id="Image29" x="198.436" y="139.28" z="3" w="10.71" h="13.15" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="Image3" x="180.5" y="82.1365" z="0" w="15.33" h="15.33" Rotation="0" Transp="177" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Intro_MSG7" />
+    </Sprite>
+    <Sprite Id="Image4" x="80.4572" y="118.685" z="0" w="13.77" h="13.24" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof5" />
+    </Sprite>
+    <Sprite Id="Image5" x="78.2811" y="90.7881" z="1" w="10.29" h="12.64" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="Image6" x="95.2283" y="117.188" z="0" w="15.91" h="15.91" Rotation="0" Transp="174" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Intro_MSG9" />
+    </Sprite>
+    <Sprite Id="Image7" x="112.107" y="117.046" z="0" w="15.95" h="15.95" Rotation="0" Transp="174" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Intro_MSG10" />
+    </Sprite>
+    <Sprite Id="Image8" x="28.8" y="92.0376" z="0" w="0.46" h="0.46" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="MovingCircle" />
+    </Sprite>
+    <Sprite Id="Image9" x="43.4539" y="143.826" z="1" w="17.02" h="17.02" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Intro_MSG11" />
+    </Sprite>
+    <Sprite Id="ImageCopy0" x="200.899" y="115.576" z="1" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy1" x="177.732" y="82.4975" z="1" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy10" x="96.8679" y="116.869" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy11" x="57.5159" y="91.0505" z="-4" w="10.5" h="12.89" Rotation="0" Transp="254" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy12" x="90.144" y="94.8827" z="3" w="13.45" h="12.93" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy13" x="100.399" y="87.0301" z="1" w="13.45" h="12.93" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy14" x="65.0431" y="77.1376" z="-6" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="1" WrapX="1768" WrapY="516" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy15" x="172.014" y="109.056" z="1" w="13.45" h="12.93" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy16" x="88.4782" y="86.8781" z="1" w="10.29" h="12.64" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy17" x="-6.43311" y="166.203" z="-10" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy18" x="78.3204" y="87.0591" z="0" w="10.29" h="12.64" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy19" x="-6.40673" y="182.821" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy2" x="-6.40007" y="149.597" z="-7" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy20" x="-8.07283" y="66.5771" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy21" x="41.484" y="48.5705" z="1" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy22" x="-8.07009" y="50.0045" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy23" x="-8.07051" y="33.4194" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy24" x="-8.03842" y="16.8987" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy25" x="-7.99843" y="0.240594" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy26" x="57.5349" y="102.56" z="-2" w="10.5" h="12.89" Rotation="0" Transp="254" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy27" x="200.905" y="132.101" z="1" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy28" x="-8.0766" y="83.2121" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy29" x="-8.13426" y="132.929" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy3" x="154.606" y="82.497" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy30" x="-8.11193" y="116.325" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy31" x="-8.09582" y="99.8199" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy32" x="8.4494" y="154.582" z="2" w="13.76" h="13.23" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy33" x="15.982" y="148.935" z="2" w="13.87" h="13.34" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy34" x="24.2125" y="138.971" z="2" w="13.76" h="13.23" Rotation="27" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy35" x="67.3182" y="107.617" z="5" w="13.76" h="13.23" Rotation="324.998" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy36" x="54.1123" y="107.927" z="6" w="13.76" h="13.23" Rotation="324.598" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy37" x="67.9562" y="87.3036" z="-2" w="10.5" h="12.9" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy38" x="57.5248" y="87.4147" z="-5" w="10.44" h="12.82" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy39" x="9.37795" y="153.819" z="1" w="1.31" h="2.64" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy4" x="26.9001" y="127.505" z="1" w="13.76" h="13.23" Rotation="52.5" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy40" x="16.9193" y="147.456" z="1" w="1.63" h="3.27" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy41" x="-0.888738" y="142.482" z="1" w="3.4" h="6.81" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="1" WrapX="237" WrapY="92" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy42" x="-0.777649" y="149.147" z="1" w="3.4" h="6.81" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="1" WrapX="151" WrapY="64" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy43" x="-0.599902" y="155.769" z="1" w="3.4" h="6.81" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="1" WrapX="64" WrapY="64" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy44" x="-3.20373" y="158.441" z="3" w="13.76" h="13.23" Rotation="324.5" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other1" />
+    </Sprite>
+    <Sprite Id="ImageCopy46" x="14.8101" y="148.208" z="1" w="2.48" h="4.98" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy47" x="5.59216" y="154.843" z="1" w="2.29" h="4.61" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy48" x="7.71421" y="154.447" z="1" w="2.01" h="4.03" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="11">
+        <Image Id="Roof_Other3" />
+    </Sprite>
+    <Sprite Id="ImageCopy5" x="155.002" y="107.18" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy6" x="67.943" y="90.8347" z="-1" w="10.5" h="12.89" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Roof1" />
+    </Sprite>
+    <Sprite Id="ImageCopy7" x="200.898" y="99.0179" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy8" x="200.885" y="82.4957" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy9" x="119.965" y="116.859" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Wrap="0" WrapX="0" WrapY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+
+</Entities>

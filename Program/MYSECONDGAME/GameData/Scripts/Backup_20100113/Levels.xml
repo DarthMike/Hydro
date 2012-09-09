@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******RELATIONSHIP BETWEEN FILE AND LEVEL NAME************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+<Levels>
+    <Level Id="Level1" Path="\GameData\Scripts\EditorLevel1.xml" C="0" />
+    <Level Id="Level2" Path="\GameData\Scripts\EditorLevel2.xml" C="0" />
+    <Level Id="Level3" Path="\GameData\Scripts\TestLevel.xml" C="0" />
+    <!-- <Level Id="Level3" Path="\GameData\Scripts\EditorLevel3.xml" C="0" /> -->
+</Levels>

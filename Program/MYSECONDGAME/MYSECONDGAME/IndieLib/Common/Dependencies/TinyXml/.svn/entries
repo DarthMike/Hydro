@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2008-12-21T14:20:07.792577Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/Dependencies/TinyXml"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="tinyxmlerror.cpp"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="cf5c6f205d9c15967401977bcef750c6"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="tinystr.h"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="cf367876ee833646804f79b5dd331d83"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="tinyxmlparser.cpp"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="61f673567a221034ffbb2384db7ac0f5"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:10.000000Z"/>
+<entry
+   committed-rev="10"
+   name="tinyxml.cpp"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="4eb10127acd13bdf317d9fa628037027"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:12.000000Z"/>
+<entry
+   committed-rev="10"
+   name="tinyxml.h"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="91714a07a77efe12d8cff3b0ee96d9d5"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:12.000000Z"/>
+<entry
+   committed-rev="10"
+   name="tinystr.cpp"
+   text-time="2009-07-16T13:50:12.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="375cdcb664469af25e6ebda03177ab3d"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:12.000000Z"/>
+</wc-entries>

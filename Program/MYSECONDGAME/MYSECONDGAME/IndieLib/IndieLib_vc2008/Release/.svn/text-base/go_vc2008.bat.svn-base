@@ -1,0 +1,5 @@
+cls
+copy IndieLib_vc2008.lib ..\..\..\IndieLib_SDK\tutorials\source\common\ /y
+xcopy ..\..\Common\LibHeaders ..\..\..\IndieLib_SDK\tutorials\source\common\LibHeaders /e /y 
+
+copy IndieLib_vc2008.dll ..\..\..\IndieLib_SDK\tutorials\exe\vc2008\ /y

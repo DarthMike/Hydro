@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Level ToCollect="2" />
+<Parallax MaxZoom="0.2" MinZoom="0.07" StartZoom="0.12">
+    <Layer Number="0" SpeedPercentX="0" SpeedPercentY="0" ZoomPercent="0" StartPosX="-0.784197" StartPosY="0" />
+    <Layer Number="15" SpeedPercentX="200" SpeedPercentY="0" ZoomPercent="0" StartPosX="-2.46056" StartPosY="0" />
+</Parallax>
+<Entities>
+    <!-- Player controlled character: A blob defined with parameters, and an image or animation -->
+    <!-- Control Force for impulse: 0.18 -->
+    <Player MaxControlForce="12" MaxSpeed="18.0" DamageForce="0.52" ThrowingMaxForce="0.12" DamageScaleRatio="0.25" DrawColorR="84" DrawColorG="152" DrawColorB="237">
+        <Sprite Id="BlobFace" x="183.252" y="92.2352" z="0" w="4" h="4" Rotation="0" Transp="120" FlipX="0" FlipY="0" Layer="11">
+            <Animation Id="BlobFace" />
+        </Sprite>
+        <!-- A blob entity is higly parametric: Options include InnerSkin or not, if not chosen (DoubleSkin = 0) means InnerSkinRadius parameter has no effect  -->
+        <Blob x="183.252" y="92.2352" Layer="10" Radius="2.7" InnerSkinRadius="2" DoubleSkin="0" Bodies="80" DamageFilterTime="60" InJointsDamping="0.05" InJointsFrequency="2.8" SkinJointsDamping="0.3" SkinJointsFrequency="60" MassesRadius="0.3" MassesFriction="0.1" MassesRestitution="0" MassesDensity="0.01" InnerMassRadius="0.3" InnerMassDensity="0.45" />
+    </Player>
+    <Collectable Id="AnimationCopy1" x="96.617" y="131.42" z="0" w="5.71853" h="4.39502" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Animation Id="HelpLessDrop" />
+        <CircleShape Radius="2">0,0</CircleShape>
+    </Collectable>
+    <Collectable Id="AnimationCopy0"  x="162.444" y="120.347" z="0" w="5.71853" h="4.39502" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Animation Id="HelpLessDrop" />
+        <CircleShape Radius="2">0,0</CircleShape>
+    </Collectable>
+    <Sprite Id="Image0" x="0.0809772" y="-0.47" z="0" w="10.13" h="7.6" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="0">
+        <Image Id="SkyBackground" />
+    </Sprite>
+    <Sprite Id="Image1" x="-3.71677" y="2.08" z="0" w="1.32" h="1.34" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="0">
+        <Image Id="Sun" />
+    </Sprite>
+    <Sprite Id="Image12" x="76.1103" y="102.855" z="2" w="13.4532" h="12.9358" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy0" x="200.826" y="115.109" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy1" x="177.568" y="80.8668" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy10" x="96.8679" y="116.869" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy11" x="59.2174" y="100.993" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy12" x="86.4173" y="94.9328" z="2" w="13.4532" h="12.9358" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy13" x="96.8571" y="87.0197" z="1" w="13.4532" h="12.9358" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy14" x="123.625" y="77.1682" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy15" x="172.014" y="109.056" z="1" w="13.4532" h="12.9358" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Roof4" />
+    </Sprite>
+    <Sprite Id="ImageCopy2" x="11.0267" y="149.483" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy3" x="154.355" y="80.8538" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy4" x="111.548" y="77.1781" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy5" x="155.002" y="107.18" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy6" x="112.395" y="-0.826461" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy7" x="200.898" y="99.0179" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy8" x="200.885" y="82.4957" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Sprite Id="ImageCopy9" x="119.965" y="116.859" z="0" w="23.23" h="16.65" Rotation="0" Transp="255" FlipX="0" FlipY="0" Layer="10">
+        <Image Id="Brick1" />
+    </Sprite>
+    <Body Id="StaticBody13" x="166.038" y="80.7021" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-23.1991,-8.34859,23.1991,-8.34859,23.1991,8.34859,-23.1991,8.34859</PolygonShape>
+    </Body>
+    <Body Id="StaticBody12" x="71.1046" y="107.996" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <CircleShape Radius="1.23445" Density="10" Friction="0.6" Restitution="0">0,0</CircleShape>
+    </Body>
+    <Body Id="StaticBody11" x="87.1213" y="95.3691" Rotation="2.48501" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-20.2659,-1.34593,20.2659,-1.34593,20.2659,1.34593,-20.2659,1.34593</PolygonShape>
+    </Body>
+    <Body Id="StaticBody10" x="59.2465" y="101.013" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-11.6135,-8.26786,11.6135,-8.26786,11.6135,8.26786,-11.6135,8.26786</PolygonShape>
+    </Body>
+    <Body Id="StaticBody9" x="166.557" y="113.98" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <CircleShape Radius="1.64655" Density="10" Friction="0.6" Restitution="0">0,0</CircleShape>
+    </Body>
+    <Body Id="StaticBody8" x="171.673" y="110.445" Rotation="2.49901" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-6.55813,-1.3822,6.55813,-1.3822,6.55813,1.3822,-6.55813,1.3822</PolygonShape>
+    </Body>
+    <Body Id="StaticBody7" x="171.203" y="104.416" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-4.4407,-1.88215,4.4407,-1.88215,4.4407,1.88215,-4.4407,1.88215</PolygonShape>
+    </Body>
+    <Body Id="StaticBody6" x="155.096" y="107.211" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-11.6265,-8.33442,11.6265,-8.33442,11.6265,8.33442,-11.6265,8.33442</PolygonShape>
+    </Body>
+    <Body Id="StaticBody5" x="108.36" y="116.754" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-23.2166,-8.29274,23.2166,-8.29274,23.2166,8.29274,-23.2166,8.29274</PolygonShape>
+    </Body>
+    <Body Id="StaticBody4" x="117.717" y="77.1005" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-17.7165,-8.45943,17.7165,-8.45943,17.7165,8.45943,-17.7165,8.45943</PolygonShape>
+    </Body>
+    <Body Id="StaticBody3" x="194.541" y="105.015" Rotation="0" LinDamping="0" AngDamping="0.1" IsStatic="1">
+        <PolygonShape Order="4" Density="10" Friction="0.6" Restitution="0">-5.3757,-30.687,5.3757,-30.687,5.3757,30.687,-5.3757,30.687</PolygonShape>
+    </Body>
+</Entities>

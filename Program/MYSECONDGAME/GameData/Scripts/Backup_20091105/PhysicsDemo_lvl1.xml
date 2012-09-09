@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO LEVEL************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+<!-- Level Attribues -->
+<Level ToCollect = "3" />
+
+<!-- Parallax scroll definition THE ONLY LAYERS NOT ALLOWED ARE 63 (OVERLAY) AND 10 (GENERAL DEFAULT)
+       Be careful to define sprites in existing layers (counting on number 10 and 63 which are allways defined) -->
+<Parallax MaxZoom = "0.8" MinZoom = "0.2">
+		<Layer Number = "0" SpeedPercentX = "80" SpeedPercentY = "0" ZoomPercent  = "0" StartPosX = "-1" StartPosY = "0">
+		</Layer>
+		<Layer Number = "15" SpeedPercentX = "200" SpeedPercentY = "0" ZoomPercent  = "0" StartPosX = "-3" StartPosY = "0">
+		</Layer>
+</Parallax>
+
+<!-- Entities definition -->
+<Entities>
+	<Sprite Id= "Background_cave" x = "0" y ="0"  z = "0" w = "12" h = "6" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "0">
+		<Image Id = "SkyBackground"/>
+	</Sprite>
+
+	<!-- Player controlled character: A blob defined with parameters, and an image or animation -->
+	<Player MaxControlForce = "0.12" MaxSpeed = "15.0" DamageForce = "0.45" ThrowingMaxForce = "0.1">
+		<Sprite Id= "BlobFace" x = "25" y ="32"  z = "0" w = "4" h = "4" Rotation = "0" Transp = "100" FlipX = "0" FlipY = "0" Layer = "11">
+			<Animation Id = "BlobFace"/>
+		</Sprite>
+ 		<!-- A blob entity is higly parametric: Options include InnerSkin or not, if not chosen (DoubleSkin = 0) means InnerSkinRadius parameter has no effect  -->
+		<Blob  x ="25"  y = "32" Layer= "2" Radius= "2.7" InnerSkinRadius = "2" DoubleSkin = "0" 
+					Bodies= "80" InJointsDamping= "0.05" InJointsFrequency= "2.8" SkinJointsDamping = "0.3" SkinJointsFrequency = "60" 
+					MassesRadius= "0.3" MassesFriction= "0.1" MassesRestitution= "0" MassesDensity= "0.01" 
+				    InnerMassRadius = "0.3" InnerMassDensity = "0.4">
+		</Blob>
+	</Player> 
+
+	 <AI Type = "Fly" Id= "Fly1" x = "3" y ="6" z = "0" w = "1" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10" LinDamping = "0" AngDamping = "0" IsStatic = "0" MaxSpeed = "50.0" MaxSteerForce = "100">
+		<Image Id = "FlyImage1"/>
+		<CircleShape Radius = "0.5" Density = "1" Friction = "0.1" Restitution = "0.1">
+			0,0
+		</CircleShape>
+	</AI>
+
+	<Collectable Id = "FirstDrop" x="18" y="29" z ="1" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+		<Animation Id = "HelpLessDrop"/>
+		<CircleShape Radius = "1">
+			0,0
+		</CircleShape>
+	</Collectable>
+
+	<Collectable Id = "SecondDrop" x="20" y="30" z ="1" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+		<Animation Id = "HelpLessDrop"/>
+		<CircleShape Radius = "1">
+			0,0
+		</CircleShape>
+	</Collectable>
+
+	<Collectable Id = "ThirdDrop" x="30" y="28" z ="1" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+		<Animation Id = "HelpLessDrop"/>
+		<CircleShape Radius = "1">
+			0,0
+		</CircleShape>
+	</Collectable>
+
+	<Body Id= "Body10" x = "33" y ="35"  Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<PolygonShape Order = "4" Density = "1" Friction = "0.2" Restitution = "0.3">
+			1.5,-1.5,1.5,1.5,-1.5,1.5,-1.5,-1.5
+	    </PolygonShape>
+		<Sprite Id="Body10Sprite" x = "33" y ="35"  z = "0" w = "3" h = "3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+			<Image Id = "MovingSquare"/>
+		</Sprite>
+	</Body>
+
+	<Body Id= "Body11" x = "33" y ="40" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<Sprite Id= "Body11" x = "33" y ="40"  z = "0" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+			<Image Id = "MovingSquare"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "1" Friction = "0.5" Restitution = "0.3">
+			1,-1,1,1,-1,1,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body12" x = "33" y ="45" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<Sprite Id= "Body12" x = "33" y ="45" z = "0"  w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+				<Image Id = "MovingSquare"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "1" Friction = "0.2" Restitution = "0.3">
+			1,-1,1,1,-1,1,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body13" x = "40" y ="40"  Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<Sprite Id= "Body13" x = "40" y ="40"  z = "0" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+			<Image Id = "MovingSquare"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "1" Friction = "0.2" Restitution = "0.3">
+			1,-1,1,1,-1,1,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body15" x = "40" y ="30"  Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<Sprite Id= "Body15" x = "40" y ="30"  z = "0" w = "2" h = "2" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">				
+			<Image Id = "MovingSquare"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "1" Friction = "0.2" Restitution = "0.3">
+			1,-1,1,1,-1,1,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body5" x = "10" y ="25" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+			<Sprite Id= "Body5" x = "10" y ="25"  z = "0" w = "1" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+				<Image Id = "MovingTriangle"/>
+			</Sprite>
+		<PolygonShape Order = "3" Density = "5" Friction = "0.8" Restitution = "0.1">
+			0.5,-0.5,0,0.5,-0.5,-0.5
+	    </PolygonShape>
+	</Body>
+	<Body Id= "Body6" x = "16" y ="33" Rotation = "90" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+		<Sprite Id= "Body6" x = "16" y ="33"  z = "0" w = "1" h = "1" Rotation = "90" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+			<Image Id = "MovingTriangle"/>
+		</Sprite>
+		<PolygonShape Order = "3" Density = "1" Friction = "0.6" Restitution = "0.1">
+			0.5,-0.5,0,0.5,-0.5,-0.5
+	    </PolygonShape>
+	</Body>
+
+	<Body Id= "Body897" x = "45" y ="45" Rotation = "90" LinDamping = "0" AngDamping = "0.1" IsStatic = "0">
+			<Sprite Id= "Body897" x = "45" y ="45"  z = "0" w = "2" h = "2" Rotation = "90" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+				<Image Id = "MovingTriangle"/>
+			</Sprite>
+		<PolygonShape Order = "3" Density = "1" Friction = "0.6" Restitution = "0.1">
+			1,-1,0,2,-1,-1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static1" x = "10" y ="2.5" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Static1" x = "10" y ="2.5"  z = "0"   w = "20" h = "5"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-10,-2.5,10,-2.5,10,2.5,-10,2.5
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static2" x = "35" y ="2.5" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Static2" x = "35" y ="2.5"  z = "0"   w = "30" h = "5"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10" >				
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-15,-2.5,15,-2.5,15,2.5,-15,2.5
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static3" x = "35" y ="5.5" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Static3" x = "35" y ="5.5"   z = "0"  w = "30" h = "1"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-15,-0.5,15,-0.5,15,0.5,-15,0.5
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static4" x = "55" y ="1" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Static4" x = "55" y ="1"  z = "0"  w = "10" h = "2"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-5,-1,5,-1,5,1,-5,1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static5" x = "55" y ="3.5" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+			<Sprite Id = "Static5" x = "55" y ="3.5"  z = "0"   w = "10" h = "3"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+				<Image Id = "Brick1"/>
+			</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-5,-1.5,5,-1.5,5,1.5,-5,1.5
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static6" x = "65" y ="1" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+ 		<Sprite Id = "Static6" x = "65" y ="1"   z = "0"  w = "10" h = "2"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-5,-1,5,-1,5,1,-5,1
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static7" x = "8.5" y ="35" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+			<Sprite Id = "Static7" x = "8.5" y ="35"  z = "0"   w = "17" h = "30"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">		
+				<Image Id = "Brick1"/>
+			</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-8.5,-15,8.5,-15,8.5,15,-8.5,15
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static8" x = "37" y ="22" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+			<Sprite Id = "Static8" x = "37" y ="22"  z = "0"   w = "40" h = "4"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">			
+				<Image Id = "Brick1"/>	
+			</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-20,-2,20,-2,20,2,-20,2
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Static9" x = "69.5" y ="24" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Static9" x = "69.5" y ="24"  z = "0"   w = "15" h = "8"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">	
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-7.5,-4,7.5,-4,7.5,4,-7.5,4
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Wall1" x = "1" y ="25" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Wall1" x = "1" y ="25"  z = "0"   w = "2" h = "50"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-1,-25,1,-25,1,25,-1,25
+	    </PolygonShape>
+	</Body>
+
+	<Body Id = "Wall2" x = "79" y ="25" Rotation = "0" LinDamping = "0" AngDamping = "0.1" IsStatic = "1">
+		<Sprite Id = "Wall2" x = "79" y ="25"   z = "0"  w = "2" h = "50"  Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Layer = "10">
+			<Image Id = "Brick1"/>
+		</Sprite>
+		<PolygonShape Order = "4" Density = "100" Friction = "0.9" Restitution = "0">
+			-1,-25,1,-25,1,25,-1,25
+	    </PolygonShape>
+	</Body>
+
+</Entities>

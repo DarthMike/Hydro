@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Dynamics/Joints"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2RevoluteJoint.h"
+   text-time="2009-11-25T11:53:18.375000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="67da875b584662b492b4982d5142b2ad"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.828125Z"/>
+<entry
+   committed-rev="195"
+   name="b2PulleyJoint.cpp"
+   text-time="2009-11-25T11:53:18.359375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="432770bc25942e32bd3ccd071c01a453"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.828125Z"/>
+<entry
+   committed-rev="195"
+   name="b2GearJoint.cpp"
+   text-time="2009-11-25T11:53:18.375000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="ad70e81d48f29c348cc8b09805ccf1e9"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.843750Z"/>
+<entry
+   committed-rev="195"
+   name="b2PulleyJoint.h"
+   text-time="2009-11-25T11:53:18.375000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="4b0b43cd0e83ca2f239192a9109326ab"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.859375Z"/>
+<entry
+   committed-rev="195"
+   name="b2Joint.cpp"
+   text-time="2009-11-25T11:53:18.375000Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="bd44e3410cb2d664a6c8161d391e15c1"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.843750Z"/>
+<entry
+   committed-rev="195"
+   name="b2GearJoint.h"
+   text-time="2009-11-25T11:53:18.390625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="1d7ecf1935a762dcdbb65a4e8247b863"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.859375Z"/>
+<entry
+   committed-rev="195"
+   name="b2Joint.h"
+   text-time="2009-11-25T11:53:18.390625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="686a07250279058a0533e9c56cf44cb2"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.859375Z"/>
+<entry
+   committed-rev="195"
+   name="b2LineJoint.cpp"
+   text-time="2009-11-25T11:53:18.390625Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="5228b270e73fd8f1ec841f3f20a35bc7"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2MouseJoint.cpp"
+   text-time="2009-11-25T11:53:18.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="af157c4540ee5a5c41b613f32f971502"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:14.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2DistanceJoint.cpp"
+   text-time="2009-11-25T11:53:18.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="d53e0d1b0e11d2d8ed2f55a3afcb652e"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:17.890625Z"/>
+<entry
+   committed-rev="195"
+   name="b2PrismaticJoint.cpp"
+   text-time="2009-11-25T11:53:18.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="4d82c68eac4f4d745e195a7274f3820c"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.171875Z"/>
+<entry
+   committed-rev="195"
+   name="b2LineJoint.h"
+   text-time="2009-11-25T11:53:18.406250Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="0f7cb86a51ae8baa7235ccd31b0f7606"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.187500Z"/>
+<entry
+   committed-rev="195"
+   name="b2MouseJoint.h"
+   text-time="2009-11-25T11:53:18.421875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="314035cf188f06f0c526dfadb9cf3fcf"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.203125Z"/>
+<entry
+   committed-rev="195"
+   name="b2DistanceJoint.h"
+   text-time="2009-11-25T11:53:18.437500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="8008a8a22c96be20352e4c170083d4ee"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.312500Z"/>
+<entry
+   committed-rev="195"
+   name="b2PrismaticJoint.h"
+   text-time="2009-11-25T11:53:18.437500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="fca1d7ceb148d30c1bf3ebe0d127aee6"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.312500Z"/>
+<entry
+   committed-rev="195"
+   name="b2RevoluteJoint.cpp"
+   text-time="2009-11-25T11:53:18.437500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="6f80eb831de2f07a84b4babc978d7bd7"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:18.359375Z"/>
+</wc-entries>

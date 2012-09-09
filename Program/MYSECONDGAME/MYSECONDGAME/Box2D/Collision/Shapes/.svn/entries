@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Collision/Shapes"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2EdgeShape.h"
+   text-time="2009-11-25T11:53:39.078125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="61f5073f95a6ae88a7ca5cbe30a2a924"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:35.875000Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolygonShape.h"
+   text-time="2009-11-25T11:53:39.078125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="2109b1e91ab5fba39247fa5d69a69200"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:36.000000Z"/>
+<entry
+   committed-rev="195"
+   name="b2Shape.cpp"
+   text-time="2009-11-25T11:53:39.078125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="5936bc1092595b6f54cbac35a1d17cca"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:36.140625Z"/>
+<entry
+   committed-rev="195"
+   name="b2CircleShape.cpp"
+   text-time="2009-11-25T11:53:39.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="3f2b06cb995decf1d6e7dc741df88cb8"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:36.140625Z"/>
+<entry
+   committed-rev="195"
+   name="b2EdgeShape.cpp"
+   text-time="2009-11-25T11:53:39.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="e7da90842aab092e9f29c802bc1ffb8f"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:36.156250Z"/>
+<entry
+   committed-rev="195"
+   name="b2Shape.h"
+   text-time="2009-11-25T11:53:39.093750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="7a9fa8b1507fc74c51b8b2d035457881"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:38.781250Z"/>
+<entry
+   committed-rev="195"
+   name="b2CircleShape.h"
+   text-time="2009-11-25T11:53:39.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="afa0b2d4cc7441757e6f3bff536b5363"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:38.781250Z"/>
+<entry
+   committed-rev="195"
+   name="b2PolygonShape.cpp"
+   text-time="2009-11-25T11:53:39.109375Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="52cc84d4f63d11c0a67d846a170a3580"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:39.062500Z"/>
+</wc-entries>

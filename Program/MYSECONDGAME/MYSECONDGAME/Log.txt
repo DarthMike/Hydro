@@ -1,0 +1,32 @@
+===================================================================
+=======                 LOGGING STARTED                    ========
+===================================================================
+New log started at: Fri Feb 04 10:58:59 2011
+
+( )<GameApp::_init()>: Launching game...
+( )<GameEventManager>: Event Manager initialized
+( )<SoundManager::InitAL>: Initializing sound system...
+( )<SoundManager::InitAL>: Opening default sound device...
+( )<SoundManager::InitAL>: Default sound device opened
+( )<SoundManager::InitAL>: Sound system initialized correctly
+( )<ResourceManager::LoadLevelResources>: Loading resources for level 'Common'...
+( )<OggStream::open>: Opening ogg file..\GameData\Audio\Water Gardens.ogg
+( )<OggStream::open>: File..\GameData\Audio\Water Gardens.oggRead and ready to play
+( )<ResourceManager>: Initial Resources Loaded and Resource Manager Ready
+( )<GameScreen>: New game screen created
+( )<IndieLibManager::RenderRoutine>: There are some entities assigned a layer without camera on it! Rendered with General Camera (layer 10)
+( )<GameScreen>: Game Screen deleted
+( )<GameScreen>: New game screen created
+( )<GameScreen>: Game Screen deleted
+( )<GameStateManager::UpdateLogic>: User quits game...
+( )<GameApp::_release()>: Game shutdown...
+( )<ResourceManager>: All resources freed and Resource Manager Destroyed
+( )<SoundManager::releaseAL>: Releasing sound system..
+( )<SoundManager::releaseAL>: Sound system released correctly
+( )<GameEventManager>: Event Manager destroyed
+( )<GameApp::_release()>: Game shutdown complete
+===================================================================
+=======                 LOGGING FINISHED                   ========
+===================================================================
+New log finished at: Fri Feb 04 10:59:34 2011
+

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+	<!-- frames declaration -->
+	<frames>	
+		<!-- Rain animation -->
+		<frame name ="Frame01" file= "..\GameData\Image\Rain\Rain00001.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame02" file= "..\GameData\Image\Rain\Rain00002.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame03" file= "..\GameData\Image\Rain\Rain00003.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame04" file= "..\GameData\Image\Rain\Rain00004.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame05" file= "..\GameData\Image\Rain\Rain00005.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame06" file= "..\GameData\Image\Rain\Rain00006.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame07" file= "..\GameData\Image\Rain\Rain00007.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame08" file= "..\GameData\Image\Rain\Rain00008.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame09" file= "..\GameData\Image\Rain\Rain00009.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame10" file= "..\GameData\Image\Rain\Rain00010.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame11" file= "..\GameData\Image\Rain\Rain00011.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame12" file= "..\GameData\Image\Rain\Rain00012.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame13" file= "..\GameData\Image\Rain\Rain00013.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame14" file= "..\GameData\Image\Rain\Rain00014.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame15" file= "..\GameData\Image\Rain\Rain00015.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame16" file= "..\GameData\Image\Rain\Rain00016.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame17" file= "..\GameData\Image\Rain\Rain00017.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame18" file= "..\GameData\Image\Rain\Rain00018.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame19" file= "..\GameData\Image\Rain\Rain00019.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame20" file= "..\GameData\Image\Rain\Rain00020.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame21" file= "..\GameData\Image\Rain\Rain00021.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame22" file= "..\GameData\Image\Rain\Rain00022.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame23" file= "..\GameData\Image\Rain\Rain00023.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame24" file= "..\GameData\Image\Rain\Rain00024.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame25" file= "..\GameData\Image\Rain\Rain00025.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame26" file= "..\GameData\Image\Rain\Rain00026.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame27" file= "..\GameData\Image\Rain\Rain00027.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame28" file= "..\GameData\Image\Rain\Rain00028.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame29" file= "..\GameData\Image\Rain\Rain00029.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame30" file= "..\GameData\Image\Rain\Rain00030.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame31" file= "..\GameData\Image\Rain\Rain00031.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame32" file= "..\GameData\Image\Rain\Rain00032.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame33" file= "..\GameData\Image\Rain\Rain00033.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame34" file= "..\GameData\Image\Rain\Rain00034.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame35" file= "..\GameData\Image\Rain\Rain00035.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame36" file= "..\GameData\Image\Rain\Rain00036.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame37" file= "..\GameData\Image\Rain\Rain00037.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame38" file= "..\GameData\Image\Rain\Rain00038.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame39" file= "..\GameData\Image\Rain\Rain00039.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame40" file= "..\GameData\Image\Rain\Rain00040.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame41" file= "..\GameData\Image\Rain\Rain00041.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame42" file= "..\GameData\Image\Rain\Rain00042.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame43" file= "..\GameData\Image\Rain\Rain00043.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame44" file= "..\GameData\Image\Rain\Rain00044.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame45" file= "..\GameData\Image\Rain\Rain00045.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame46" file= "..\GameData\Image\Rain\Rain00046.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame47" file= "..\GameData\Image\Rain\Rain00047.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame48" file= "..\GameData\Image\Rain\Rain00048.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame49" file= "..\GameData\Image\Rain\Rain00049.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame50" file= "..\GameData\Image\Rain\Rain00050.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame51" file= "..\GameData\Image\Rain\Rain00051.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame52" file= "..\GameData\Image\Rain\Rain00052.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame53" file= "..\GameData\Image\Rain\Rain00053.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame54" file= "..\GameData\Image\Rain\Rain00054.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame55" file= "..\GameData\Image\Rain\Rain00055.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame56" file= "..\GameData\Image\Rain\Rain00056.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame57" file= "..\GameData\Image\Rain\Rain00057.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame58" file= "..\GameData\Image\Rain\Rain00058.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame59" file= "..\GameData\Image\Rain\Rain00059.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame60" file= "..\GameData\Image\Rain\Rain00060.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame61" file= "..\GameData\Image\Rain\Rain00061.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame62" file= "..\GameData\Image\Rain\Rain00062.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame63" file= "..\GameData\Image\Rain\Rain00063.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame64" file= "..\GameData\Image\Rain\Rain00064.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame65" file= "..\GameData\Image\Rain\Rain00065.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame66" file= "..\GameData\Image\Rain\Rain00066.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame67" file= "..\GameData\Image\Rain\Rain00067.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame68" file= "..\GameData\Image\Rain\Rain00068.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame69" file= "..\GameData\Image\Rain\Rain00069.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame70" file= "..\GameData\Image\Rain\Rain00070.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame71" file= "..\GameData\Image\Rain\Rain00071.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame72" file= "..\GameData\Image\Rain\Rain00072.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame73" file= "..\GameData\Image\Rain\Rain00073.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame74" file= "..\GameData\Image\Rain\Rain00074.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame75" file= "..\GameData\Image\Rain\Rain00075.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame76" file= "..\GameData\Image\Rain\Rain00076.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame77" file= "..\GameData\Image\Rain\Rain00077.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame78" file= "..\GameData\Image\Rain\Rain00078.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame79" file= "..\GameData\Image\Rain\Rain00079.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame80" file= "..\GameData\Image\Rain\Rain00080.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame81" file= "..\GameData\Image\Rain\Rain00081.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame82" file= "..\GameData\Image\Rain\Rain00082.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame83" file= "..\GameData\Image\Rain\Rain00083.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame84" file= "..\GameData\Image\Rain\Rain00084.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame85" file= "..\GameData\Image\Rain\Rain00085.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame86" file= "..\GameData\Image\Rain\Rain00086.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame87" file= "..\GameData\Image\Rain\Rain00087.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame88" file= "..\GameData\Image\Rain\Rain00088.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame89" file= "..\GameData\Image\Rain\Rain00089.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame90" file= "..\GameData\Image\Rain\Rain00090.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame91" file= "..\GameData\Image\Rain\Rain00091.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame92" file= "..\GameData\Image\Rain\Rain00092.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame93" file= "..\GameData\Image\Rain\Rain00093.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame94" file= "..\GameData\Image\Rain\Rain00094.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame95" file= "..\GameData\Image\Rain\Rain00095.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame96" file= "..\GameData\Image\Rain\Rain00096.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame97" file= "..\GameData\Image\Rain\Rain00097.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame98" file= "..\GameData\Image\Rain\Rain00098.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame99" file= "..\GameData\Image\Rain\Rain00099.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<!-- <frame name ="Frame100" file= "..\GameData\Image\Rain\Rain00100.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame101" file= "..\GameData\Image\Rain\Rain00101.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame102" file= "..\GameData\Image\Rain\Rain00102.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame103" file= "..\GameData\Image\Rain\Rain00103.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame104" file= "..\GameData\Image\Rain\Rain00104.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame105" file= "..\GameData\Image\Rain\Rain00105.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame106" file= "..\GameData\Image\Rain\Rain00106.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame107" file= "..\GameData\Image\Rain\Rain00107.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame108" file= "..\GameData\Image\Rain\Rain00108.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame109" file= "..\GameData\Image\Rain\Rain00109.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame110" file= "..\GameData\Image\Rain\Rain00110.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame111" file= "..\GameData\Image\Rain\Rain00111.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame112" file= "..\GameData\Image\Rain\Rain00112.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame113" file= "..\GameData\Image\Rain\Rain00113.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame114" file= "..\GameData\Image\Rain\Rain00114.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame115" file= "..\GameData\Image\Rain\Rain00115.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame116" file= "..\GameData\Image\Rain\Rain00116.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame117" file= "..\GameData\Image\Rain\Rain00117.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame118" file= "..\GameData\Image\Rain\Rain00118.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame119" file= "..\GameData\Image\Rain\Rain00119.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame120" file= "..\GameData\Image\Rain\Rain00120.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame121" file= "..\GameData\Image\Rain\Rain00121.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame122" file= "..\GameData\Image\Rain\Rain00122.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame123" file= "..\GameData\Image\Rain\Rain00123.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame124" file= "..\GameData\Image\Rain\Rain00124.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame125" file= "..\GameData\Image\Rain\Rain00125.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame126" file= "..\GameData\Image\Rain\Rain00126.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame127" file= "..\GameData\Image\Rain\Rain00127.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame128" file= "..\GameData\Image\Rain\Rain00128.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame129" file= "..\GameData\Image\Rain\Rain00129.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame130" file= "..\GameData\Image\Rain\Rain00130.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame131" file= "..\GameData\Image\Rain\Rain00131.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame132" file= "..\GameData\Image\Rain\Rain00132.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame133" file= "..\GameData\Image\Rain\Rain00133.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame134" file= "..\GameData\Image\Rain\Rain00134.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame135" file= "..\GameData\Image\Rain\Rain00135.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame136" file= "..\GameData\Image\Rain\Rain00136.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame137" file= "..\GameData\Image\Rain\Rain00137.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame138" file= "..\GameData\Image\Rain\Rain00138.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame139" file= "..\GameData\Image\Rain\Rain00139.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame140" file= "..\GameData\Image\Rain\Rain00140.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame141" file= "..\GameData\Image\Rain\Rain00141.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame142" file= "..\GameData\Image\Rain\Rain00142.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame143" file= "..\GameData\Image\Rain\Rain00143.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame144" file= "..\GameData\Image\Rain\Rain00144.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame145" file= "..\GameData\Image\Rain\Rain00145.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame146" file= "..\GameData\Image\Rain\Rain00146.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame147" file= "..\GameData\Image\Rain\Rain00147.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame148" file= "..\GameData\Image\Rain\Rain00148.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame149" file= "..\GameData\Image\Rain\Rain00149.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/>
+		<frame name ="Frame150" file= "..\GameData\Image\Rain\Rain00150.png"collision="..\GameData\Image\Rain\Rain_collisions.xml"/> -->
+	</frames>
+		
+	<!-- sequences declaration -->
+	<sequences>
+		<!-- Raining -->
+		<sequence name="Raining">
+			<frame name="Frame01" time="25" />
+			<frame name="Frame02" time="25" />
+			<frame name="Frame03" time="25" />
+			<frame name="Frame04" time="25" />
+			<frame name="Frame05" time="25" />
+			<frame name="Frame06" time="25" />
+			<frame name="Frame07" time="25" />
+			<frame name="Frame08" time="25" />
+			<frame name="Frame09" time="25" />
+			<frame name="Frame10" time="25" />
+			<frame name="Frame11" time="25" />
+			<frame name="Frame12" time="25" />
+			<frame name="Frame13" time="25" />
+			<frame name="Frame14" time="25" />
+			<frame name="Frame15" time="25" />
+			<frame name="Frame16" time="25" />
+			<frame name="Frame17" time="25" />
+			<frame name="Frame18" time="25" />
+			<frame name="Frame19" time="25" />
+			<frame name="Frame20" time="25" />
+			<frame name="Frame21" time="25" />
+			<frame name="Frame22" time="25" />
+			<frame name="Frame23" time="25" />
+			<frame name="Frame24" time="25" />
+			<frame name="Frame25" time="25" />
+			<frame name="Frame26" time="25" />
+			<frame name="Frame27" time="25" />
+			<frame name="Frame28" time="25" />
+			<frame name="Frame29" time="25" />
+			<frame name="Frame30" time="25" />
+			<frame name="Frame31" time="25" />
+			<frame name="Frame32" time="25" />
+			<frame name="Frame33" time="25" />
+			<frame name="Frame34" time="25" />
+			<frame name="Frame35" time="25" />
+			<frame name="Frame36" time="25" />
+			<frame name="Frame37" time="25" />
+			<frame name="Frame38" time="25" />
+			<frame name="Frame39" time="25" />
+			<frame name="Frame40" time="25" />
+			<frame name="Frame41" time="25" />
+			<frame name="Frame42" time="25" />
+			<frame name="Frame43" time="25" />
+			<frame name="Frame44" time="25" />
+			<frame name="Frame45" time="25" />
+			<frame name="Frame46" time="25" />
+			<frame name="Frame47" time="25" />
+			<frame name="Frame48" time="25" />
+			<frame name="Frame49" time="25" />
+			<frame name="Frame50" time="25" />
+			<frame name="Frame51" time="25" />
+			<frame name="Frame52" time="25" />
+			<frame name="Frame53" time="25" />
+			<frame name="Frame54" time="25" />
+			<frame name="Frame55" time="25" />
+			<frame name="Frame56" time="25" />
+			<frame name="Frame57" time="25" />
+			<frame name="Frame58" time="25" />
+			<frame name="Frame59" time="25" />
+			<frame name="Frame60" time="25" />
+			<frame name="Frame61" time="25" />
+			<frame name="Frame62" time="25" />
+			<frame name="Frame63" time="25" />
+			<frame name="Frame64" time="25" />
+			<frame name="Frame65" time="25" />
+			<frame name="Frame66" time="25" />
+			<frame name="Frame67" time="25" />
+			<frame name="Frame68" time="25" />
+			<frame name="Frame69" time="25" />
+			<frame name="Frame70" time="25" />
+			<frame name="Frame71" time="25" />
+			<frame name="Frame72" time="25" />
+			<frame name="Frame73" time="25" />
+			<frame name="Frame74" time="25" />
+			<frame name="Frame75" time="25" />
+			<frame name="Frame76" time="25" />
+			<frame name="Frame77" time="25" />
+			<frame name="Frame78" time="25" />
+			<frame name="Frame79" time="25" />
+			<frame name="Frame80" time="25" />
+			<frame name="Frame81" time="25" />
+			<frame name="Frame82" time="25" />
+			<frame name="Frame83" time="25" />
+			<frame name="Frame84" time="25" />
+			<frame name="Frame85" time="25" />
+			<frame name="Frame86" time="25" />
+			<frame name="Frame87" time="25" />
+			<frame name="Frame88" time="25" />
+			<frame name="Frame89" time="25" />
+			<frame name="Frame90" time="25" />
+			<frame name="Frame91" time="25" />
+			<frame name="Frame92" time="25" />
+			<frame name="Frame93" time="25" />
+			<frame name="Frame94" time="25" />
+			<frame name="Frame95" time="25" />
+			<frame name="Frame96" time="25" />
+			<frame name="Frame97" time="25" />
+			<frame name="Frame98" time="25" />
+			<frame name="Frame99" time="25" />
+			<!-- <frame name="Frame100" time="25" />
+			<frame name="Frame101" time="25" />
+			<frame name="Frame102" time="25" />
+			<frame name="Frame103" time="25" />
+			<frame name="Frame104" time="25" />
+			<frame name="Frame105" time="25" />
+			<frame name="Frame106" time="25" />
+			<frame name="Frame107" time="25" />
+			<frame name="Frame108" time="25" />
+			<frame name="Frame109" time="25" />
+			<frame name="Frame110" time="25" />
+			<frame name="Frame111" time="25" />
+			<frame name="Frame112" time="25" />
+			<frame name="Frame113" time="25" />
+			<frame name="Frame114" time="25" />
+			<frame name="Frame115" time="25" />
+			<frame name="Frame116" time="25" />
+			<frame name="Frame117" time="25" />
+			<frame name="Frame118" time="25" />
+			<frame name="Frame119" time="25" />
+			<frame name="Frame120" time="25" />
+			<frame name="Frame121" time="25" />
+			<frame name="Frame122" time="25" />
+			<frame name="Frame123" time="25" />
+			<frame name="Frame124" time="25" />
+			<frame name="Frame125" time="25" />
+			<frame name="Frame126" time="25" />
+			<frame name="Frame127" time="25" />
+			<frame name="Frame128" time="25" />
+			<frame name="Frame129" time="25" />
+			<frame name="Frame130" time="25" />
+			<frame name="Frame131" time="25" />
+			<frame name="Frame132" time="25" />
+			<frame name="Frame133" time="25" />
+			<frame name="Frame134" time="25" />
+			<frame name="Frame135" time="25" />
+			<frame name="Frame136" time="25" />
+			<frame name="Frame137" time="25" />
+			<frame name="Frame138" time="25" />
+			<frame name="Frame139" time="25" />
+			<frame name="Frame140" time="25" />
+			<frame name="Frame141" time="25" />
+			<frame name="Frame142" time="25" />
+			<frame name="Frame143" time="25" />
+			<frame name="Frame144" time="25" />
+			<frame name="Frame145" time="25" />
+			<frame name="Frame146" time="25" />
+			<frame name="Frame147" time="25" />
+			<frame name="Frame148" time="25" />
+			<frame name="Frame149" time="25" />
+			<frame name="Frame150" time="25" /> -->
+		</sequence>						
+	</sequences>
+</animation>

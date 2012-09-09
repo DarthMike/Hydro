@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO OVERLAY************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Display Text -->
+	<Sprite Id = "IntroText" x = "0" y ="1" z = "0"  w = "40" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="10">
+			<Font Id = "MainFont" LineSpacing ="30" CharSpacing = "0" Align = "Center"/>	
+	</Sprite>
+</Entities>

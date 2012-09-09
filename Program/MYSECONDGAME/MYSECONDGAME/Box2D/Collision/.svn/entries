@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="195"
+   name=""
+   committed-date="2009-02-13T23:35:14.030037Z"
+   url="https://box2d.svn.sourceforge.net/svnroot/box2d/tags/Box2D-2.0.2/Source/Collision"
+   last-author="udoprog"
+   kind="dir"
+   uuid="f71193c7-d439-0410-8131-bb32c6e3d2ad"
+   revision="228"/>
+<entry
+   committed-rev="195"
+   name="b2Distance.cpp"
+   text-time="2009-11-25T11:53:45.296875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="74fc35e36eda78ae7cac94a717656e52"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:32.968750Z"/>
+<entry
+   committed-rev="195"
+   name="b2Collision.cpp"
+   text-time="2009-11-25T11:53:45.296875Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="08ea36715fdacd01e2f24a6914a0ef69"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:32.968750Z"/>
+<entry
+   committed-rev="195"
+   name="b2PairManager.h"
+   text-time="2009-11-25T11:53:45.312500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="92bb0fc987e17482e2538d012d36a265"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:33.093750Z"/>
+<entry
+   committed-rev="195"
+   name="b2BroadPhase.h"
+   text-time="2009-11-25T11:53:45.312500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="85d3969d02937dd48e57e5eb9953ec5c"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:33.109375Z"/>
+<entry
+   committed-rev="195"
+   name="b2CollideCircle.cpp"
+   text-time="2009-11-25T11:53:45.312500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="cac8c6144e57f93d43f28163cea685e2"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:35.734375Z"/>
+<entry
+   name="Shapes"
+   kind="dir"/>
+<entry
+   committed-rev="195"
+   name="b2CollidePoly.cpp"
+   text-time="2009-11-25T11:53:45.312500Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="bb758beee64c6eeee95fbe8e65377dad"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:39.203125Z"/>
+<entry
+   committed-rev="195"
+   name="b2Collision.h"
+   text-time="2009-11-25T11:53:45.328125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="8c0f200eab9734904db8944b2871c87a"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:44.718750Z"/>
+<entry
+   committed-rev="195"
+   name="b2TimeOfImpact.cpp"
+   text-time="2009-11-25T11:53:45.328125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="fc419b300395ab25bcf8ea071fcc0cdf"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:44.734375Z"/>
+<entry
+   committed-rev="195"
+   name="b2PairManager.cpp"
+   text-time="2009-11-25T11:53:45.328125Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="0b52bdd41a714de93af972216aa854cf"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:45.000000Z"/>
+<entry
+   committed-rev="195"
+   name="b2BroadPhase.cpp"
+   text-time="2009-11-25T11:53:45.343750Z"
+   committed-date="2009-02-13T23:35:14.030037Z"
+   checksum="89165e13e0471366e917b5766eab97dd"
+   last-author="udoprog"
+   kind="file"
+   prop-time="2009-11-25T11:53:45.281250Z"/>
+</wc-entries>

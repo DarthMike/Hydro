@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14"
+   name=""
+   committed-date="2009-01-06T22:35:33.096936Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/IndieLib_vc2008/Release"
+   last-author="JavierLopez"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="10"
+   name="wipe_out.bat"
+   text-time="2009-07-16T13:49:40.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="110d6a1c8bdaeb7535422d3777415f2a"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:40.000000Z"/>
+<entry
+   committed-rev="10"
+   name="clean.bat"
+   text-time="2009-07-16T13:49:42.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="008981182182b38933b93a4c5ab48168"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:40.000000Z"/>
+<entry
+   committed-rev="10"
+   name="go_vc2008.bat"
+   text-time="2009-07-16T13:49:42.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="16316d1c29a4407b34bc77fbe1aac93e"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:49:40.000000Z"/>
+</wc-entries>

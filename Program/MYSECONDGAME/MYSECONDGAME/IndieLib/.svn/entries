@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19"
+   name=""
+   committed-date="2009-02-06T09:21:35.614470Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib"
+   last-author="WiseNomad"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   name="IndieLib_vc2008"
+   kind="dir"/>
+<entry
+   name="Common"
+   kind="dir"/>
+</wc-entries>

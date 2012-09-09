@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO EDITOR************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Mouse Cursor -->
+	<Sprite Id= "MouseCursor" x = "0" y ="0" z = "0" w = "0.3" h = "0.3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="62">
+		<Image Id = "EditCursor"/>
+	</Sprite>
+	<!-- Editing Brush -->
+	<Sprite Id= "EditBrush" x = "0" y ="0" z = "0" w = "0.3" h = "0.3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="62">
+		<Image Id = "EditCursor"/>
+	</Sprite>
+	<!-- Edited sprite info text -->
+	<Sprite Id= "EditText" x = "0" y ="0" z = "0" w = "1" h = "1" Rotation = "0" Transp = "200" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="62">
+		<Font Id = "GenBig" LineSpacing ="35" CharSpacing = "3" Align = "Center"/>	
+	</Sprite>
+	<!-- Display Text -->
+	<Sprite Id = "InfoText" x = "-4" y ="9" z = "0"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+			<Font Id = "GenSmall" LineSpacing ="15" CharSpacing = "0" Align = "Left"/>	
+	</Sprite>
+</Entities>

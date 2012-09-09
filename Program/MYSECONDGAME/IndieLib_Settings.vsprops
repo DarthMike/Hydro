@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="IndieLib_Settings"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="C:\Programming\IndieLib\IndieLib\Common\LibHeaders"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalDependencies="IndieLib_vc2008.lib"
+		AdditionalLibraryDirectories="C:\Programming\IndieLib\IndieLib\IndieLib_vc2008\Release"
+	/>
+</VisualStudioPropertySheet>

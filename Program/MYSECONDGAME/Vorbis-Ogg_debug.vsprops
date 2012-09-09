@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="Vorbis-Ogg_debug"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="$(SolutionDir)\$(SolutionName)\Vorbis-Ogg Lib\Include"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalDependencies="libogg.lib libvorbis.lib libvorbisfile.lib vorbisdec.lib vorbisenc.lib"
+		AdditionalLibraryDirectories="$(SolutionDir)\$(SolutionName)\Vorbis-Ogg Lib\Lib\Debug"
+	/>
+</VisualStudioPropertySheet>

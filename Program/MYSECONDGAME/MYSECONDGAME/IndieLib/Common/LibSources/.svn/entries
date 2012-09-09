@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2009-01-26T18:35:11.796631Z"
+   url="http://svn.assembla.com/svn/indielib/IndieLib/Common/LibSources"
+   last-author="WiseNomad"
+   kind="dir"
+   uuid="e0e46c49-be69-4f5a-ad62-21024a331aea"
+   revision="19"/>
+<entry
+   committed-rev="15"
+   name="IND_Window.cpp"
+   text-time="2009-07-16T13:50:54.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="2c68724d446dd853a8396ba2d345fe4f"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:52.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderTransform2d.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="967ac17d3f6d362021c16b678e4619d4"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_AnimationManager.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="83e666dd7259e294d39c01d68aca8ad1"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="Global.h"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="b0d702ae75fe3a5efc4f9e6a029a9bc7"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="CollisionParser.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="a6d5763646f2c9ab6291f6ec19972c9d"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="ImageCutter.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="1d5410d1c00666a811a231f119807353"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="16"
+   name="IND_Render.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-26T18:35:11.796631Z"
+   checksum="81258c693f96106beed826ca84544b99"
+   last-author="WiseNomad"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Camera3d.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="399d2ccc4e6511bd68fa0925c3a8d373"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="IND_Timer.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="cd220165407527891f28b7dcb2b715a7"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_SurfaceManager.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="c4ec226170cb6f434fd8729b570fb5fc"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_3dMesh.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="88c8c6894ab49caa5ab93e449cf553cd"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IndieLib.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="a6ee0ad300ff7bd574efba0f0fcc079c"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="DebugApi.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="e12630f7a4f8b3844ccae417018dd053"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderCollision2d.cpp"
+   text-time="2009-07-16T13:50:56.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="2194a37b7ff7bafe94703040cc76e088"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Surface.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="238bdcac7c63dc378ffb126398a60301"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="XMeshHierarchy.h"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="79ce5e093b52ac72f66f47aee4ca5d59"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_FontManager.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="df4f59dd7da1cdc17815868c5fceb872"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderObject2d.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="4835b71bc70bde6de5f0efcba523ef1e"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="RenderCulling.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="0bf20fccd8a20e412c0d5a23930a28dd"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Entity3d.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="459757bfe021b49ba9e76cd1aa41adac"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderPrimitive2d.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="6cfdaaf6aa42c6bb9987a3d9c1c31f6e"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="Global.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="7cbd24c7fc4aa53c9fc4e25900c7f98e"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Light.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="5aa559d1ef2f4f3d61377d5595ab35b0"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderTransform3d.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="bd65b7134109e7bd62373beff378b657"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_ImageManager.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="1244be0242f5c8f52cba3ccfcd119ed4"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_3dMeshManager.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="a1780b600451797cf213f22ec50131da"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Camera2d.cpp"
+   text-time="2009-07-16T13:50:58.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="268f52b61167cdc20f3d2aa06eb2e74c"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="IND_Animation.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="7ba4d72d2497945a1e3433212d9ed929"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderText2d.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="94ccdd29a0352efe1b80dc7ca02a1f4f"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Image.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="c9323468f75c1a4b208b3a067dea0d4e"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="XMeshHierarchy.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="69851982973fa9cd54eb6a826d804c2b"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Math.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="c20c8af1879986e5413be3ff31850d0d"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderTransformCommon.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="1163221ea7b53bd0f7c180c304d8baae"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="DebugApi.h"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="f1f0c95eabd3264fb59e6103de5382a4"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Entity2dManager.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="cd695aa82f2634364dc75e28f02b616f"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="10"
+   name="IND_Entity3dManager.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2008-12-21T14:20:07.792577Z"
+   checksum="346880a7582b03a042fd971a58dcdaf9"
+   last-author="JavierLopez"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Input.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="7af90e4d0de0384c49793cc3167153bf"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_LightManager.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="e1805494d0de072e371b9d6cc96f65d5"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="IND_Entity2d.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="cc53fc9aec3433a4ea19f8eaeb9cbc94"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+<entry
+   committed-rev="15"
+   name="RenderObject3d.cpp"
+   text-time="2009-07-16T13:51:00.000000Z"
+   committed-date="2009-01-25T20:26:16.760967Z"
+   checksum="bbe8f9c89843a5aa24b22fb602fbd51b"
+   last-author="numlook"
+   kind="file"
+   prop-time="2009-07-16T13:50:54.000000Z"/>
+</wc-entries>

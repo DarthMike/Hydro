@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+*******CONFIGURATION SCRIPT TO OVERLAY************
+-----Remember that paths are relative to exe!--------------
+Remember that names have to be COHERENT in different XML file!
+-->
+
+<!-- Entities definition -->
+<Entities>
+	<!-- Overlay Indicators -->
+	<Sprite Id= "RestartButton" x = "-3.4" y ="3.3"  z = "0" w = "1" h = "1" Rotation = "0" Transp = "180" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+		<!-- <Image Id = "OverLay_Restart"  CollisionPath = "GameData\Image\OverLay_Restart_coll.xml"/> -->
+		<Image Id = "OverLay_Restart"/>
+	</Sprite> 
+	<Sprite Id= "HelpLessDropImg" x = "3.8" y ="8.8"  z = "0" w = "0.52" h = "0.4" Rotation = "0" Transp = "130" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+		<Image Id = "HelpLessDrop"/>
+	</Sprite>
+	<!-- Mouse Cursor -->
+	<Sprite Id= "MouseCursor" x = "0" y ="0"  z = "0" w = "0.3" h = "0.3" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+		<Image Id = "MouseCursor"/>
+	</Sprite>
+
+	<!-- Display Text -->
+	<Sprite Id = "DebugText" x = "-4" y ="8" z = "1"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+			<Font Id = "GenSmall" LineSpacing ="14" CharSpacing = "0" Align = "Left"/>	
+	</Sprite>
+	<Sprite Id = "CollectedText" x = "3.9" y ="8.9" z = "1"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+			<Font Id = "MainFont" LineSpacing ="28" CharSpacing = "0" Align = "Right"/>	
+	</Sprite>
+	<Sprite Id = "HealthText" x = "-3.9" y ="8.9" z = "1"  w = "4" h = "1" Rotation = "0" Transp = "255" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+			<Font Id = "MainFont_Small" LineSpacing ="28" CharSpacing = "0" Align = "Left"/>	
+	</Sprite>
+	<Sprite Id = "MessagesText" x = "0" y ="6" z = "0"  w = "4" h = "1" Rotation = "0" Transp = "150" FlipX = "0" FlipY = "0" Wrap = "0" WrapX = "0" WrapY = "0" Layer="63">
+			<Font Id = "MainFont_Small" LineSpacing ="30" CharSpacing = "0" Align = "Center"/>	
+	</Sprite>
+</Entities>
